@@ -8,20 +8,39 @@ import 'package:sharelymeter/screens/home/home_screen.dart';
 import 'package:sharelymeter/screens/home/wrapper.dart';
 import 'package:sharelymeter/screens/notification/notification_screen.dart';
 import 'package:sharelymeter/screens/welcome/welcomescreen.dart';
+import 'package:firebase_core/firebase_core.dart';
+
 import 'package:sharelymeter/prematching/map.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:sharelymeter/googlemapapi.dart'; // Stores the Google Maps API Key
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 import 'package:geolocator/geolocator.dart';
 
-import 'dart:math' show cos, sqrt, asin;
+import 'dart:developer';
 
-void main() {
+void main() async {
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+class MyApp extends StatefulWidget {
+  MyApp({Key key}) : super(key: key);
+  
+  @override
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  // Define an async function to initialize FlutterFire
+  void initializeFlutterFire() async {
+    await Firebase.initializeApp();
+  }
+
+  @override
+  void initState() {
+    initializeFlutterFire();
+    super.initState();
+  }
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -34,10 +53,10 @@ class MyApp extends StatelessWidget {
         appBarTheme: AppBarTheme(color: kPrimaryColor, elevation: 0),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      //ถ้า Log-in แล้วให้เข้า SharlyMeter() ถ้ายังไม่ Log-in ให้เข้า WelcomeScreen()
-      home: SharlyMeter(),
-      // home: Wrapper(),
-      // home: MapView(),
+      // ถ้า Log-in แล้วให้เข้า SharlyMeter() ถ้ายังไม่ Log-in ให้เข้า WelcomeScreen()
+      //home: SharlyMeter(),
+      //home: WelcomeScreen()
+      home: Wrapper()
     );
   }
 }

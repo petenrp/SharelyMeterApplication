@@ -6,12 +6,14 @@ import 'package:sharelymeter/components/rounded_password_field.dart';
 import 'package:sharelymeter/screens/login/components/background.dart';
 import 'package:sharelymeter/screens/signup/signup_screen.dart';
 
-class Body extends StatelessWidget {
-  const Body({
-    Key key,
-  }) : super(key: key);
+class Body extends StatefulWidget {
+  Body({Key key}) : super(key: key);
 
+  @override
+  _BodyState createState() => _BodyState();
+}
 
+class _BodyState extends State<Body> {
   @override
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
@@ -61,6 +63,6 @@ class Body extends StatelessWidget {
         ),
       ),
     );
-  }
+  } 
 }
 
