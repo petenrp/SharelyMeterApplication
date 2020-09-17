@@ -16,9 +16,9 @@ import 'package:sharelymeter/googlemapapi.dart'; // Stores the Google Maps API K
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 import 'package:geolocator/geolocator.dart';
 
-import 'dart:developer';
+import 'dart:math' show cos, sqrt, asin;
 
-void main() async {
+void main() {
   runApp(MyApp());
 }
 
