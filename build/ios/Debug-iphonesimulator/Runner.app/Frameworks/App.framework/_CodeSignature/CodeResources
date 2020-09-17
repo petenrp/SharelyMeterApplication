@@ -234,7 +234,11 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
+<<<<<<< HEAD
+		38bk1ZqPNj/sz99AAps4TK7/umc=
+=======
 		1wi8PB8cFu9zrCNN+SqOzMubjlc=
+>>>>>>> master
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -313,10 +317,6 @@
 	<dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GzNSU+baVVIx9XlAbWMc09br7h4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ttUeViTr3Czolbbh2ZF8so8lkGgb7ai1MALDFiMowm4=
@@ -324,10 +324,6 @@
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6Mmw7OlXl7Fxq+yTUHLVJl+RBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			K0U/bG+QYFRDwzv0bL/k5lEst1By7J7jmoZ/i5Zq6vo=
@@ -335,10 +331,13 @@
 		</dict>
 		<key>flutter_assets/NOTICES</key>
 		<dict>
+<<<<<<< HEAD
+=======
 			<key>hash</key>
 			<data>
 			jGwO9D03261seFHiBwXlDo3o59U=
 			</data>
+>>>>>>> master
 			<key>hash2</key>
 			<data>
 			9Aq1piCddsH9IINxOsHbm0fKs7ZO3pvmKb7eDqhDpM4=
@@ -346,10 +345,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/account-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QPmpzF4RWi5vbA6KGhjTTtCz9P0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ah9yxuwreYMMxpsETjhlgtGoAtLrD3ViHo0IF/P+F6I=
@@ -357,10 +352,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/account.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XI4IsnhMOqpfM+szN3T9RHupU6I=
-			</data>
 			<key>hash2</key>
 			<data>
 			/U4Y5R5MzH8rBApZ976m4q2Hjee36ytZFJLdPbfo96s=
@@ -368,10 +359,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/activity-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kqnPUayQ873K8RpOqnVsrW+3caE=
-			</data>
 			<key>hash2</key>
 			<data>
 			R+HRDyJz1IkerHVPloemMqV2hWzaRwwbysMnxR48l/k=
@@ -379,10 +366,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/activity.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			z7Q5zTvp9b9wWxYe4We8A8cThJg=
-			</data>
 			<key>hash2</key>
 			<data>
 			6mxZ+VbuxbQHUQVj2n1GfE3fOb9F1Z/zhDKv2wdejxg=
@@ -390,10 +373,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/add-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0AhRYZreKHYQpq6e21tWbf1877k=
-			</data>
 			<key>hash2</key>
 			<data>
 			unzQ8dZn7O8it0l86cpNgqa9ObdhoAa9X4vxOGieBng=
@@ -401,10 +380,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/add.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xr/srZ8koi5gUb8zJnwHkWla9c0=
-			</data>
 			<key>hash2</key>
 			<data>
 			VyeO2Uw4pY6QE0NsvT4/OIMMP1JV9QTQs248mNlevcg=
@@ -412,10 +387,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/apple.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s+MMX1Prm9X1H4K26Y7IkVF6ox4=
-			</data>
 			<key>hash2</key>
 			<data>
 			HTHhiC4vqMbGNgnkXQT64L9S0i/zvNHIaag7cdabJEA=
@@ -423,10 +394,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/back.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jCl/Z3ZUEdBb67X/Idx4NfF59JI=
-			</data>
 			<key>hash2</key>
 			<data>
 			PLssQ8ViYHs/r7927r0I84MT2Dp3Ye/7hVZmtA811+Q=
@@ -434,10 +401,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/chat.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WA2YGCZT0HHp3uclzaNyt6eSVQs=
-			</data>
 			<key>hash2</key>
 			<data>
 			co5Aa8heJ3xC4KZTWm5FOe+qlLAzo66amAz0Qbc3TKk=
@@ -445,10 +408,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/destination-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GKHqeZMkK95kSVfdZEbpTthdgGI=
-			</data>
 			<key>hash2</key>
 			<data>
 			CXItXTT4xb+JITjJLnngG77Tl3RnTB0J0p6kAwgoRz4=
@@ -456,10 +415,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/destination.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			//uCYcrj4gVMstyNoIrubbt32WA=
-			</data>
 			<key>hash2</key>
 			<data>
 			9kgqlZwvXcMTnKTq1MTk5x5kDIUHCWT3WB1/ubwj4is=
@@ -467,10 +422,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/edit.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			baGmHWaUdifdn6DdFTfysBBK/qA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ty0aV7LNareALJXoWaBRiqSdpdOEu878O+m2g0Q1Q8Y=
@@ -478,10 +429,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/google.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1LPEzGTc4/aTBK5RMS66b5j1US8=
-			</data>
 			<key>hash2</key>
 			<data>
 			heSKg8J/bZ4kVLSG9XzimfcNCUyS6ai2tqDs0nWdnUo=
@@ -489,10 +436,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/history.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+kUj9UvwWGCwaVNoLEzPDCHYF1E=
-			</data>
 			<key>hash2</key>
 			<data>
 			oNDUbdCQQ15qDZ/yTNbTsxzPsCm+Q2NsT832dpOoGjA=
@@ -500,10 +443,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/history_filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			atTrltnBUMlE5Hl1F2fDp4EDp7Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			+yID2NRpM8Cq/z6K6cTrXs9GRLDR8LWIHIjxMqhRl3g=
@@ -511,10 +450,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/home-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZtLnUmoQkWJXfBffkd0CfZClyjk=
-			</data>
 			<key>hash2</key>
 			<data>
 			ASHO8YgCJqhkrRIX3ZKrcg8L2yuKamXqQDTzRskgirI=
@@ -522,10 +457,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/home.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2Zvzh00SHzHq7XEvZZAieZOqbBc=
-			</data>
 			<key>hash2</key>
 			<data>
 			mLLB7+8AcoG1PCtaRpVxd4AChSmC/VYweDruIQ+sgYI=
@@ -533,10 +464,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/icon.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oSoV2PKxncmq80USjnaUrNJMGPQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			nYtgMBJ75tBQpT7ZUcz+EFW0pwROGlShBYGUNUccOXI=
@@ -544,10 +471,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/line.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W+MVDoJrWhJQeMO4Vlv9VgIQw34=
-			</data>
 			<key>hash2</key>
 			<data>
 			1qU+swI1AmGNPVUdkcbGHOhoygc1kDrZD7qBvtk5sLw=
@@ -555,10 +478,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/menu.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hFgDBEVtaS+omvy/p34Dp1tzfmA=
-			</data>
 			<key>hash2</key>
 			<data>
 			/lQT7LRVm0zfuKNUwjWrJJ8zN2QXQoSMvpoCX7PbXBQ=
@@ -566,10 +485,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/notification-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9ygsKt87q04HKTZe1Dy/CZCUJm0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Qh/mOChjWJ3fKVpe5hcrMz/NYBybKxwUCirmchZNh0Q=
@@ -577,10 +492,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/notification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S+9KDxsMCDyQfcbr13wl4TKtavs=
-			</data>
 			<key>hash2</key>
 			<data>
 			APM9qGitveaefE4W2GUdrTVG0OgLLhmiJHbLHdi8drA=
@@ -588,10 +499,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/notification_bell.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jWLviMPQTGvMPU5pmWGhlZChjoU=
-			</data>
 			<key>hash2</key>
 			<data>
 			qp9IFaoXBB3xXoQia1VkGn7qmx580Ippfdo9plRsx9Y=
@@ -599,10 +506,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/pick-up-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9JnfV+NbczSqmuGkenZqGmSDQEw=
-			</data>
 			<key>hash2</key>
 			<data>
 			TJ+E6Pozg0nqvcvcHtdTJ8hcWBDV53NUgXmaGeofCy4=
@@ -610,10 +513,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/pick-up.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mzar6T0Aqyo5gFBGp/IRl3ry+yQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			iB06y+tdH9ezdU0Oenq8fhryhixIct1K0gatGnl4hgM=
@@ -621,10 +520,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/processing-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1H6vADt3WZyZkmfkkW1zjAC7+aM=
-			</data>
 			<key>hash2</key>
 			<data>
 			+aGkMdAe4LPB+HvtbR4SR8UKGMpFBGcFBRZjBalQZPA=
@@ -632,10 +527,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/processing.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EjtSLPJbRtz4vdcQQG3gBufAd4o=
-			</data>
 			<key>hash2</key>
 			<data>
 			VkFk9WaD+kou9QFEAa8whhckCqHxGVjT829cwLQrjpY=
@@ -643,10 +534,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/schedule-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6R0xfULxws/LfzPjgWEBIyzz81U=
-			</data>
 			<key>hash2</key>
 			<data>
 			vCzbPIuLzzH1XZlJkScG3GKiqPN6pvJ8sX2UL8gOvcU=
@@ -654,10 +541,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/schedule.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DfOjSxtWDh0w7XyF8ZFy1B2+3zs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8uYxjBLWycM0eaEs0qaKAnXnPvkaaWPBPn00PM9MBEo=
@@ -665,10 +548,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/search.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gXt1nrY3KfE84rhiyYktajS3Zxo=
-			</data>
 			<key>hash2</key>
 			<data>
 			zvDYSM85/esswzVcz/1HigJcb9uJ3T2kmNm1r6F+/u4=
@@ -676,10 +555,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/setting-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QnjXW4F9ZhEF6LWyNts4uHIoJE4=
-			</data>
 			<key>hash2</key>
 			<data>
 			YYH8MtcQKmfK4HEMxbAik8JijYYAOLMMzhQ8+SHnlT4=
@@ -687,10 +562,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/setting.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zOcSepTdXV71JTAukDlcE4PSC9Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			Pu92qtmjACu8714f6FWWwD29WuuHfpsRqqnXCaNFNaE=
@@ -698,10 +569,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/star-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eBejgayynTzLy5xmZjW8bUNZf0I=
-			</data>
 			<key>hash2</key>
 			<data>
 			g/rLBjZ8ffKda2cjZ7UfWQ3ywKKD1hyC2lwG6ERC/fY=
@@ -709,10 +576,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/time.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ORF8l5Us1an4weNYHKvNPCs4348=
-			</data>
 			<key>hash2</key>
 			<data>
 			3wT+xYAvEKe9xSzOSsS6kVd3wzehh50nzs3NPETWjYk=
@@ -720,10 +583,6 @@
 		</dict>
 		<key>flutter_assets/assets/icons/time_filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g2kYZZ6oBJd9SC7C6WK49pqvi3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			UFQPo6mUuFdRWOI2Xfq3YHTYCvh9/vOgbUMrI3QT7qk=
@@ -731,10 +590,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/chat.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uj1gGds29MxJli4maEKd56jtIEY=
-			</data>
 			<key>hash2</key>
 			<data>
 			tZviVxECGPEJUDM1JYHCWKr7mPM9bPS4FjFelDvXwq8=
@@ -742,10 +597,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/loading.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Jp5YTNVCbO0JrJ0gjXbaMnmTKsY=
-			</data>
 			<key>hash2</key>
 			<data>
 			0OV20ygG+WSXJqCfETMTGpUChR2Hi9hlzfpne3XkUOo=
@@ -753,10 +604,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/login.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wMxkas+dZ72oBlmFr0ZBZ5QkoZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ClKzTQTGAWi6tC7OorTq3nDO6iEy03lbgmb50Vc8lRo=
@@ -764,10 +611,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/login_bottom.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ggGLN/Zk1C2dnhtou87c6CUAZQU=
-			</data>
 			<key>hash2</key>
 			<data>
 			vXZnLyUtLGgfvOZTOXc7mL+ct6llp7MLB3TZ0FMDdgE=
@@ -775,10 +618,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9+sj+L77i5XX7Iuz3Sz3p1f0R0c=
-			</data>
 			<key>hash2</key>
 			<data>
 			zfC+tlC4vP1UJKqA2O7mtChJz6FH1QWhFUJTdK4qAFw=
@@ -786,10 +625,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/main_bottom.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fKnymlehTgbpKoTxLlhB31+fQPw=
-			</data>
 			<key>hash2</key>
 			<data>
 			B3qa5MCzqmkM43L/0gDyANGF/6aQXuxxALf6D1eit2k=
@@ -797,10 +632,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/main_top.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z4VQCcnO2MTQINB9e2qjoOnZ5X0=
-			</data>
 			<key>hash2</key>
 			<data>
 			l8QDRlA5nyDDDwPzTIF1ROxyifgl4lsyqgputY2JvGI=
@@ -808,10 +639,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/matching.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fWEJSzNE2PiKaHyP7viENyew1Ic=
-			</data>
 			<key>hash2</key>
 			<data>
 			5btHh7F/wbGyZ7bIq65bwHKGqO2VMv+9G1kTE6dKz1E=
@@ -819,10 +646,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/pic.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zlX9VCdCId3h94Cs9LrncE/IwsM=
-			</data>
 			<key>hash2</key>
 			<data>
 			wmE+X/VxLG39l+/a5oh8ckW9R3snTDUiGrx7sq+KN7s=
@@ -830,10 +653,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/rating.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oXKRDA18hawJTpXGIzxUj3l9Iio=
-			</data>
 			<key>hash2</key>
 			<data>
 			iPMjRPHpFMphyvNVEgQEv8EzVnqbIWe+4bzXy39qzOk=
@@ -841,10 +660,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/sharlymeter.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UaAO7bBIpPA2HI45j3auspnXzGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			GUgH/yYJlyrb/QTdOPOEczOo/4h9K+bALhYrNs9W+a8=
@@ -852,10 +667,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/signup.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8yfqCi3URML7QpA8NEw+5a8sfes=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6LG/Lhbx3BJXitcwWCYPR6wOTLU2XGqgVAf6/Pwaog=
@@ -863,10 +674,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/signup_top.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n5cbL3JjUBspD75UVnTlqajUgG0=
-			</data>
 			<key>hash2</key>
 			<data>
 			zPCTJOuFS7s499DC2M7A6P6RuXXxHdW1FTLBDBI4PCw=
@@ -874,10 +681,6 @@
 		</dict>
 		<key>flutter_assets/assets/images/welcome.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			78DpKvI8BvCgXyAC+NS7sk1vnxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			hcanj9URds/X+zqyMGkhYHU5+caPm9DZpPhwL+iZKv8=
@@ -885,10 +688,6 @@
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nIzDzw7hjOThppiX5OleKNAxtqM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wuh7JiGdsCj8cMnXMpa8jtW4ekzRz359zPE0NyQ7iRE=
@@ -896,10 +695,6 @@
 		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6S2rpTiNGz3kSyT1VZHCtMikvSo=
-			</data>
 			<key>hash2</key>
 			<data>
 			I9xmlH5vh7tZAmJPPfrRvQrKK+wii8/XyKHX5XGaht8=
@@ -907,6 +702,11 @@
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			p46QeuSkE4yW/EkkSiGWuwQkoGGMl7tP0u8MVMH52GQ=
+=======
 			<key>hash</key>
 			<data>
 			1wi8PB8cFu9zrCNN+SqOzMubjlc=
@@ -914,14 +714,11 @@
 			<key>hash2</key>
 			<data>
 			gKL8ym+l98eI98geDRqRYrcZvrcYnVX462Sw/xKcn7E=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TdRNbRcrlXQQgeiweLFizPmk92g=
-			</data>
 			<key>hash2</key>
 			<data>
 			d6fK2iHuml40zu1xSV3HnoE9PVFhQREGOzVfduySSBY=
@@ -929,10 +726,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TneGhDkoD7Q01Gl8e5EScUBsgfM=
-			</data>
 			<key>hash2</key>
 			<data>
 			eVXKFBJ7MEEsEU6xPP1wK12rJl/rGIDRaV1zyqgkzeE=
@@ -940,10 +733,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Entypo.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R4cKZ91Qhxdl95nKqX2ochnuR8U=
-			</data>
 			<key>hash2</key>
 			<data>
 			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
@@ -951,10 +740,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/EvilIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kdN36jz0dJCyVsLtCBcEp9q9rgw=
-			</data>
 			<key>hash2</key>
 			<data>
 			pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY=
@@ -962,10 +747,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Feather.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N8tVG0ETiQxSP0aeapsrKcTEm+Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			vJZj1K7YcJfMyjc62U/QjeJKxKNRAOPfO30oFCyQCUo=
@@ -973,10 +754,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/FontAwesome.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E7HqtlqYPHpzvHmXxHnWaUP3xss=
-			</data>
 			<key>hash2</key>
 			<data>
 			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
@@ -984,10 +761,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Brands.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			abc988iZKpOFkkYGWiZ6Bb/Yz1Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			NSPzVRWd/5tqRoE4vIyPzdWSGMAXP+6lG+TYw0iNyhA=
@@ -995,10 +768,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lwZFPD6ptz58CLO+HnxxbWVc+RY=
-			</data>
 			<key>hash2</key>
 			<data>
 			dHHOyKGia7DwFCbUgQeGkTt3cHnS+WaoU/X5dvIusqo=
@@ -1006,10 +775,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Solid.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P3YEFmOPZFmt5yUbgP17wn1q0cY=
-			</data>
 			<key>hash2</key>
 			<data>
 			lHqsFqptKzsKT6IOILje+kYC6bQvj9n6KxlTi0xajqk=
@@ -1017,10 +782,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Foundation.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SyvObHkkk6SlcWtv7C2+/olJLD8=
-			</data>
 			<key>hash2</key>
 			<data>
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
@@ -1028,10 +789,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Ionicons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mRu3+slwnNWNo3kBdw79RwPFQu0=
-			</data>
 			<key>hash2</key>
 			<data>
 			INFzvLYFHQlzvgymqi+08npbKQ2AEGyyxWfI/cdyxxE=
@@ -1039,10 +796,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/MaterialCommunityIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WxBVeEH2v7H3tjXY5Fk7WnUJsNI=
-			</data>
 			<key>hash2</key>
 			<data>
 			pMb54LECEoSgz9vwXFLUr8XOeYt1wQNsa034kEqrmB8=
@@ -1050,10 +803,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/MaterialIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/AXeMSNOAJD33cKM4bI69AJssdo=
-			</data>
 			<key>hash2</key>
 			<data>
 			t/Sjq1YgSPKN0fppFgG8QzY6YdD4dtFtgxbFLk8y1pY=
@@ -1061,10 +810,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Octicons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o/QP7s8JqAqYbxLVfGRtK0Wa+so=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KI41G1nSeYBwS8g+PwDIB8Ze5/jR75MLJRP/FxLYDU=
@@ -1072,10 +817,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n/uBpaEREuKS8swyPphIa61ZdZk=
-			</data>
 			<key>hash2</key>
 			<data>
 			P1Ad2wXHCCm7tRz+nKn/9X854GBFfCV7PM8l33Z/CHA=
@@ -1083,10 +824,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/Zocial.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			C9pZx7zT05J94EfgkYdaRCi/0as=
-			</data>
 			<key>hash2</key>
 			<data>
 			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
@@ -1094,10 +831,6 @@
 		</dict>
 		<key>flutter_assets/packages/flutter_icons/fonts/weathericons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mRbj28OZDjBzz1ostMLpWCc7dTI=
-			</data>
 			<key>hash2</key>
 			<data>
 			F2vaZmHyE93kfCEU125HbsjKmq4H3VT5VQ0tKP4CtP0=
@@ -1105,10 +838,6 @@
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a4DxLrLwhFWPIKS9/iPPSztqLuI=
-			</data>
 			<key>hash2</key>
 			<data>
 			yjs1mdT+fSVGjKabCX7QCo0WjAhHdawMYUQDJjAFCA0=

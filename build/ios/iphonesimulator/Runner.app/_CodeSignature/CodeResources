@@ -8,85 +8,29 @@
 		<data>
 		oJ/wsdOkra4upJj/T3oWxzN+0Zg=
 		</data>
-		<key>AppIcon20x20@2x.png</key>
-		<data>
-		fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-		</data>
-		<key>AppIcon20x20@2x~ipad.png</key>
-		<data>
-		fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-		</data>
-		<key>AppIcon20x20@3x.png</key>
-		<data>
-		RQ4GDPQi7DLQmZSZRRJ79BIiQa4=
-		</data>
-		<key>AppIcon20x20~ipad.png</key>
-		<data>
-		cqh2GuGgk3/G8pkWq5SNIs8iIHQ=
-		</data>
-		<key>AppIcon29x29.png</key>
-		<data>
-		yWw7HfGNFHrUJJVBoHiNqnpCE4I=
-		</data>
-		<key>AppIcon29x29@2x.png</key>
-		<data>
-		K4aHZQq9HhiKvxEoBjfaYwZG7Uk=
-		</data>
-		<key>AppIcon29x29@2x~ipad.png</key>
-		<data>
-		K4aHZQq9HhiKvxEoBjfaYwZG7Uk=
-		</data>
-		<key>AppIcon29x29@3x.png</key>
-		<data>
-		Dersp3sib4SSZoCAP6OBsW0WCao=
-		</data>
-		<key>AppIcon29x29~ipad.png</key>
-		<data>
-		yWw7HfGNFHrUJJVBoHiNqnpCE4I=
-		</data>
-		<key>AppIcon40x40@2x.png</key>
-		<data>
-		NWh4viC01GIyxpxpWgB9DSZ+eV4=
-		</data>
-		<key>AppIcon40x40@2x~ipad.png</key>
-		<data>
-		NWh4viC01GIyxpxpWgB9DSZ+eV4=
-		</data>
-		<key>AppIcon40x40@3x.png</key>
-		<data>
-		MNA6Om2kzE2UK2cASqifjyQOcDk=
-		</data>
-		<key>AppIcon40x40~ipad.png</key>
-		<data>
-		fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
 		MNA6Om2kzE2UK2cASqifjyQOcDk=
-		</data>
-		<key>AppIcon60x60@3x.png</key>
-		<data>
-		vykqpuXU0HIMw+wu5LMHvdCJNwk=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
 		TEis89bYJ5ERdh64hNbenveZwtg=
 		</data>
-		<key>AppIcon76x76~ipad.png</key>
-		<data>
-		FcVj1fviK1kLSgEuJv82EQ61Qtg=
-		</data>
-		<key>AppIcon83.5x83.5@2x~ipad.png</key>
-		<data>
-		jKlBkKg8cgjAMHQmD+TVDSqoPG0=
-		</data>
 		<key>Assets.car</key>
 		<data>
+<<<<<<< HEAD
+		flsCOErWIN3m1h5dvsyKoIphtFk=
+		</data>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
+		<data>
+		k3oEe+hBh6x2uCtGCojsqnrGDOk=
+=======
 		ClM33IKpQYTI7QI0RtRQyKdkpGQ=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
 		RHVjcQJPXSAovQS5uhOPYmvzoMM=
+>>>>>>> master
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -94,11 +38,19 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
+<<<<<<< HEAD
+		z7EmZTZuScZ8NEsQ/sdkhEOfK4w=
+		</data>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<data>
+		JaL9PZcSAh/rYu4Sg5DcpVOuu4o=
+=======
 		PtQMmHLEG4T1zVoZcz5zgLi0mW0=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
 		ORddR4cv9P7g3AlkmxuXXxnUNZE=
+>>>>>>> master
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -106,11 +58,19 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
+<<<<<<< HEAD
+		XUh4oAVdjUFgXp1hMCXqhkGBv/4=
+		</data>
+		<key>Frameworks/App.framework/App</key>
+		<data>
+		iYFnc/r8JIGID3HdlFmhjotDZ+0=
+=======
 		ly32bdQIljN+LGvOTZi3WHKNpNQ=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
 		yHYPmnfRFB8UrO9/eWPYcuajpd4=
+>>>>>>> master
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -118,7 +78,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
+<<<<<<< HEAD
+		HnpC3lP9X7d9vVAGzZcyu9d4atk=
+=======
 		d0OD1sWMZL8RQLoQS+LTL0CD8DU=
+>>>>>>> master
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -346,7 +310,11 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
+<<<<<<< HEAD
+		38bk1ZqPNj/sz99AAps4TK7/umc=
+=======
 		1wi8PB8cFu9zrCNN+SqOzMubjlc=
+>>>>>>> master
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -420,18 +388,6 @@
 		<data>
 		a4DxLrLwhFWPIKS9/iPPSztqLuI=
 		</data>
-		<key>Frameworks/FBLPromises.framework/FBLPromises</key>
-		<data>
-		WJ+WGutpe+uJBrH6OfPZoEMoFXQ=
-		</data>
-		<key>Frameworks/FBLPromises.framework/Info.plist</key>
-		<data>
-		7GGlGvRG7AOgSNkptdQhE/OuXyg=
-		</data>
-		<key>Frameworks/FBLPromises.framework/_CodeSignature/CodeResources</key>
-		<data>
-		VzPMv9NnoIk0WY5HkHrZzkVIdcg=
-		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
 		bmAAurl1IbEUa4MSu5WnsiMHsaA=
@@ -448,30 +404,6 @@
 		<data>
 		7LLymJyVsVOgMdYqN+/9Bwjbkwc=
 		</data>
-		<key>Frameworks/GTMSessionFetcher.framework/GTMSessionFetcher</key>
-		<data>
-		rv0ny5pdHw1ucqa6JJ9joaD7msk=
-		</data>
-		<key>Frameworks/GTMSessionFetcher.framework/Info.plist</key>
-		<data>
-		IzxdCTSnyMSobLxgKcamYleD1pg=
-		</data>
-		<key>Frameworks/GTMSessionFetcher.framework/_CodeSignature/CodeResources</key>
-		<data>
-		pV6N4fbzIq8b0u5V34Jhp7q/goU=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/GoogleUtilities</key>
-		<data>
-		D0SFpUJPHiKtxEy5MNV8mQ1WW5U=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/Info.plist</key>
-		<data>
-		L5xA9aSkF305UF83y4H6C8iwnu8=
-		</data>
-		<key>Frameworks/GoogleUtilities.framework/_CodeSignature/CodeResources</key>
-		<data>
-		R9bJa4Q0AtJ1RrUsUKRvTCt2xTg=
-		</data>
 		<key>Frameworks/geocoding.framework/Info.plist</key>
 		<data>
 		2O2DioV+ZRa7c4bBgQponLVHOTA=
@@ -482,7 +414,11 @@
 		</data>
 		<key>Frameworks/geocoding.framework/geocoding</key>
 		<data>
+<<<<<<< HEAD
+		Pn2qxpleif2r8D8THHyIpDxW/PY=
+=======
 		iAZ0vF4i4odgVh85acf5DwyE+Q0=
+>>>>>>> master
 		</data>
 		<key>Frameworks/geolocator.framework/Info.plist</key>
 		<data>
@@ -494,6 +430,9 @@
 		</data>
 		<key>Frameworks/geolocator.framework/geolocator</key>
 		<data>
+<<<<<<< HEAD
+		6DFRY30sROfYZG0mGLWgsHrZ0nQ=
+=======
 		w+ZfjN7Jw5q1TJ3aVU+yD5Rao4Y=
 		</data>
 		<key>Frameworks/libswiftCore.dylib</key>
@@ -535,6 +474,7 @@
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
 		//E8m/TgBemvIBfKtgUTt18JWQs=
+>>>>>>> master
 		</data>
 		<key>Frameworks/permission.framework/Info.plist</key>
 		<data>
@@ -546,7 +486,11 @@
 		</data>
 		<key>Frameworks/permission.framework/permission</key>
 		<data>
+<<<<<<< HEAD
+		TmHpFiIvcjV155/bpVtjt5hYdr0=
+=======
 		cizGPXdpfKqpwjyulGcPWP322IU=
+>>>>>>> master
 		</data>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<data>
@@ -558,7 +502,11 @@
 		</data>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<data>
+<<<<<<< HEAD
+		f/NqECIPuRYOkjyPq4avmAW2YLQ=
+=======
 		TinWlPu58cqNgwHBe0q6U4hJPJQ=
+>>>>>>> master
 		</data>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<data>
@@ -1272,7 +1220,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FSKtnrJKLKJ1IJWc4xuZi453RJc=
+		NOS8rHoeNtXUQetB+M9UQpOen2Q=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -1283,241 +1231,41 @@
 	<dict>
 		<key>AppFrameworkInfo.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oJ/wsdOkra4upJj/T3oWxzN+0Zg=
-			</data>
 			<key>hash2</key>
 			<data>
 			sK52nEo6nW3HWty12b8qsMhGzLLAfD4FGu0iCSaoR4w=
 			</data>
 		</dict>
-		<key>AppIcon20x20@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			xNmihMEjAdD1DiSOxT7VGhmhAUe3dLIzCDmSULDUTFU=
-			</data>
-		</dict>
-		<key>AppIcon20x20@2x~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			xNmihMEjAdD1DiSOxT7VGhmhAUe3dLIzCDmSULDUTFU=
-			</data>
-		</dict>
-		<key>AppIcon20x20@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RQ4GDPQi7DLQmZSZRRJ79BIiQa4=
-			</data>
-			<key>hash2</key>
-			<data>
-			v5f50yM/M+E4mwn3uK3VN0EwDLg01selyjLL7TY6T7I=
-			</data>
-		</dict>
-		<key>AppIcon20x20~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cqh2GuGgk3/G8pkWq5SNIs8iIHQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			WSXatQlFH57LsSzopiX51MEEcY7iDK/4sbUQMtHNiUY=
-			</data>
-		</dict>
-		<key>AppIcon29x29.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWw7HfGNFHrUJJVBoHiNqnpCE4I=
-			</data>
-			<key>hash2</key>
-			<data>
-			KFRC9poGtF2ded+AMhgVtUZHNUije3iBm2iVnHuO0jc=
-			</data>
-		</dict>
-		<key>AppIcon29x29@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K4aHZQq9HhiKvxEoBjfaYwZG7Uk=
-			</data>
-			<key>hash2</key>
-			<data>
-			KrZK+Kxyfqmcarnq/4R/RvvyqaCnigq8vzGA84UWRbQ=
-			</data>
-		</dict>
-		<key>AppIcon29x29@2x~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			K4aHZQq9HhiKvxEoBjfaYwZG7Uk=
-			</data>
-			<key>hash2</key>
-			<data>
-			KrZK+Kxyfqmcarnq/4R/RvvyqaCnigq8vzGA84UWRbQ=
-			</data>
-		</dict>
-		<key>AppIcon29x29@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Dersp3sib4SSZoCAP6OBsW0WCao=
-			</data>
-			<key>hash2</key>
-			<data>
-			ncoJ9OXtVoTTxN/0H06LfLhktDgXLXK+BpMV+jYpMPk=
-			</data>
-		</dict>
-		<key>AppIcon29x29~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yWw7HfGNFHrUJJVBoHiNqnpCE4I=
-			</data>
-			<key>hash2</key>
-			<data>
-			KFRC9poGtF2ded+AMhgVtUZHNUije3iBm2iVnHuO0jc=
-			</data>
-		</dict>
-		<key>AppIcon40x40@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NWh4viC01GIyxpxpWgB9DSZ+eV4=
-			</data>
-			<key>hash2</key>
-			<data>
-			1a0E3jIe83ysxae5YK/M5xvcuW+gIMSCScFUXdGg9Jc=
-			</data>
-		</dict>
-		<key>AppIcon40x40@2x~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			NWh4viC01GIyxpxpWgB9DSZ+eV4=
-			</data>
-			<key>hash2</key>
-			<data>
-			1a0E3jIe83ysxae5YK/M5xvcuW+gIMSCScFUXdGg9Jc=
-			</data>
-		</dict>
-		<key>AppIcon40x40@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			MNA6Om2kzE2UK2cASqifjyQOcDk=
-			</data>
-			<key>hash2</key>
-			<data>
-			gJq/51xEB3DBPE4uRtCWA8IgU+nU4OInXcucHc+7LHU=
-			</data>
-		</dict>
-		<key>AppIcon40x40~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fj2z4WpPSTqndb/JQEgPoYW8j/Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			xNmihMEjAdD1DiSOxT7VGhmhAUe3dLIzCDmSULDUTFU=
-			</data>
-		</dict>
 		<key>AppIcon60x60@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MNA6Om2kzE2UK2cASqifjyQOcDk=
-			</data>
 			<key>hash2</key>
 			<data>
 			gJq/51xEB3DBPE4uRtCWA8IgU+nU4OInXcucHc+7LHU=
-			</data>
-		</dict>
-		<key>AppIcon60x60@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vykqpuXU0HIMw+wu5LMHvdCJNwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			PbCMt557AbnoH5VuOgrhAUjQ+v3j6nqnAEjfkFqlLP0=
 			</data>
 		</dict>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TEis89bYJ5ERdh64hNbenveZwtg=
-			</data>
 			<key>hash2</key>
 			<data>
 			bbdyZTDXHT9Sy1l5PraRMTuqBHluEp4eBDwKWKG//S8=
 			</data>
 		</dict>
-		<key>AppIcon76x76~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			FcVj1fviK1kLSgEuJv82EQ61Qtg=
-			</data>
-			<key>hash2</key>
-			<data>
-			I8E9Rj9dylwfFKFJNAA2AcKfEhj9RhAW2KIs71eaZl8=
-			</data>
-		</dict>
-		<key>AppIcon83.5x83.5@2x~ipad.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jKlBkKg8cgjAMHQmD+TVDSqoPG0=
-			</data>
-			<key>hash2</key>
-			<data>
-			zuVl9eYhFlabZJgLIJ/Vyks9NzkBH1NDJQszoaLG62U=
-			</data>
-		</dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ClM33IKpQYTI7QI0RtRQyKdkpGQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			xJT8xWGcd6Bd7k38+PgvVKLokFuk8RSzZYJpMhF+o20=
+			IDLbPmV19gCjv+lCLBdPS/8/38PkRr3HATwJq02gT0s=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RHVjcQJPXSAovQS5uhOPYmvzoMM=
-			</data>
 			<key>hash2</key>
 			<data>
-			4AyafJQx3HcpJEbWNEGfEPM1NSxK35DbJUwpiLDVB8M=
+			sEWF6L+BIIDRG1FiA7B3k3Gto7bBjlXi3AtCpQeV1T8=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n2t8gsDpfE6XkhG31p7IQJRxTxU=
-			</data>
 			<key>hash2</key>
 			<data>
 			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
@@ -1525,32 +1273,20 @@
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PtQMmHLEG4T1zVoZcz5zgLi0mW0=
-			</data>
 			<key>hash2</key>
 			<data>
-			qgaTByf6W8N8zAGyeRRSSnelTO3L4AvcTaQYaX0Ohio=
+			Ac8WMZ+9DErdvkGwjTq7xwsHiVM2+NxUb/eWi0olHlM=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ORddR4cv9P7g3AlkmxuXXxnUNZE=
-			</data>
 			<key>hash2</key>
 			<data>
-			JyVw0LBfyt5tKokPF7ilGU1IrObfDDM/Ak6O4i+Acmw=
+			Hfq7siQlozv9eX+jx7zDnRkHfzJYjknraMN9O/bYpoc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MDrKFvFWroTb0+KEbQShBcoBvo4=
-			</data>
 			<key>hash2</key>
 			<data>
 			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
@@ -1558,32 +1294,20 @@
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ly32bdQIljN+LGvOTZi3WHKNpNQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			fTgw+omr8gtj9ndg+iKg3ixNXT4dihzl+nzodXgzAMY=
+			MpSTXUrkCdCb1jZxR2a95XYVSiweLjLuc7A3C30YH8M=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yHYPmnfRFB8UrO9/eWPYcuajpd4=
-			</data>
 			<key>hash2</key>
 			<data>
-			AojqWJXfez52j2g7fNPePKVecKS2HKxGo5/oY3NLdvk=
+			2aHxFTyvTvKf06PhCZlKYnK3migbeuP4lM/2z8ZNA/E=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tIuwG6jvd8aB/qao7bitknIML3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			ukqtfuAkMgwGkOHo6wiwON1lSZ5aYAZKizfb1wCLgTA=
@@ -1591,21 +1315,13 @@
 		</dict>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d0OD1sWMZL8RQLoQS+LTL0CD8DU=
-			</data>
 			<key>hash2</key>
 			<data>
-			VRkDae6YqW4AvTq2Mm6dhm7VmSXOHGaWcTuvCgmxrl8=
+			xzI2mRP6MKnD9q0KQFWsOafYW5/M+jrOhGQx3s1PAAY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GzNSU+baVVIx9XlAbWMc09br7h4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ttUeViTr3Czolbbh2ZF8so8lkGgb7ai1MALDFiMowm4=
@@ -1613,10 +1329,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U6Mmw7OlXl7Fxq+yTUHLVJl+RBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			K0U/bG+QYFRDwzv0bL/k5lEst1By7J7jmoZ/i5Zq6vo=
@@ -1624,10 +1336,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jGwO9D03261seFHiBwXlDo3o59U=
-			</data>
 			<key>hash2</key>
 			<data>
 			9Aq1piCddsH9IINxOsHbm0fKs7ZO3pvmKb7eDqhDpM4=
@@ -1635,10 +1343,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/account-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QPmpzF4RWi5vbA6KGhjTTtCz9P0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ah9yxuwreYMMxpsETjhlgtGoAtLrD3ViHo0IF/P+F6I=
@@ -1646,10 +1350,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/account.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XI4IsnhMOqpfM+szN3T9RHupU6I=
-			</data>
 			<key>hash2</key>
 			<data>
 			/U4Y5R5MzH8rBApZ976m4q2Hjee36ytZFJLdPbfo96s=
@@ -1657,10 +1357,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/activity-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kqnPUayQ873K8RpOqnVsrW+3caE=
-			</data>
 			<key>hash2</key>
 			<data>
 			R+HRDyJz1IkerHVPloemMqV2hWzaRwwbysMnxR48l/k=
@@ -1668,32 +1364,40 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/activity.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			z7Q5zTvp9b9wWxYe4We8A8cThJg=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			6mxZ+VbuxbQHUQVj2n1GfE3fOb9F1Z/zhDKv2wdejxg=
+=======
+			<key>hash</key>
+			<data>
+			ClM33IKpQYTI7QI0RtRQyKdkpGQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			xJT8xWGcd6Bd7k38+PgvVKLokFuk8RSzZYJpMhF+o20=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/add-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0AhRYZreKHYQpq6e21tWbf1877k=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			unzQ8dZn7O8it0l86cpNgqa9ObdhoAa9X4vxOGieBng=
+=======
+			<key>hash</key>
+			<data>
+			RHVjcQJPXSAovQS5uhOPYmvzoMM=
+			</data>
+			<key>hash2</key>
+			<data>
+			4AyafJQx3HcpJEbWNEGfEPM1NSxK35DbJUwpiLDVB8M=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/add.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xr/srZ8koi5gUb8zJnwHkWla9c0=
-			</data>
 			<key>hash2</key>
 			<data>
 			VyeO2Uw4pY6QE0NsvT4/OIMMP1JV9QTQs248mNlevcg=
@@ -1701,32 +1405,40 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/apple.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s+MMX1Prm9X1H4K26Y7IkVF6ox4=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			HTHhiC4vqMbGNgnkXQT64L9S0i/zvNHIaag7cdabJEA=
+=======
+			<key>hash</key>
+			<data>
+			PtQMmHLEG4T1zVoZcz5zgLi0mW0=
+			</data>
+			<key>hash2</key>
+			<data>
+			qgaTByf6W8N8zAGyeRRSSnelTO3L4AvcTaQYaX0Ohio=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/back.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jCl/Z3ZUEdBb67X/Idx4NfF59JI=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			PLssQ8ViYHs/r7927r0I84MT2Dp3Ye/7hVZmtA811+Q=
+=======
+			<key>hash</key>
+			<data>
+			ORddR4cv9P7g3AlkmxuXXxnUNZE=
+			</data>
+			<key>hash2</key>
+			<data>
+			JyVw0LBfyt5tKokPF7ilGU1IrObfDDM/Ak6O4i+Acmw=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/chat.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WA2YGCZT0HHp3uclzaNyt6eSVQs=
-			</data>
 			<key>hash2</key>
 			<data>
 			co5Aa8heJ3xC4KZTWm5FOe+qlLAzo66amAz0Qbc3TKk=
@@ -1734,32 +1446,40 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/destination-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GKHqeZMkK95kSVfdZEbpTthdgGI=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			CXItXTT4xb+JITjJLnngG77Tl3RnTB0J0p6kAwgoRz4=
+=======
+			<key>hash</key>
+			<data>
+			ly32bdQIljN+LGvOTZi3WHKNpNQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			fTgw+omr8gtj9ndg+iKg3ixNXT4dihzl+nzodXgzAMY=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/destination.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			//uCYcrj4gVMstyNoIrubbt32WA=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			9kgqlZwvXcMTnKTq1MTk5x5kDIUHCWT3WB1/ubwj4is=
+=======
+			<key>hash</key>
+			<data>
+			yHYPmnfRFB8UrO9/eWPYcuajpd4=
+			</data>
+			<key>hash2</key>
+			<data>
+			AojqWJXfez52j2g7fNPePKVecKS2HKxGo5/oY3NLdvk=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/edit.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			baGmHWaUdifdn6DdFTfysBBK/qA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ty0aV7LNareALJXoWaBRiqSdpdOEu878O+m2g0Q1Q8Y=
@@ -1767,21 +1487,23 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/google.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1LPEzGTc4/aTBK5RMS66b5j1US8=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			heSKg8J/bZ4kVLSG9XzimfcNCUyS6ai2tqDs0nWdnUo=
+=======
+			<key>hash</key>
+			<data>
+			d0OD1sWMZL8RQLoQS+LTL0CD8DU=
+			</data>
+			<key>hash2</key>
+			<data>
+			VRkDae6YqW4AvTq2Mm6dhm7VmSXOHGaWcTuvCgmxrl8=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/history.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+kUj9UvwWGCwaVNoLEzPDCHYF1E=
-			</data>
 			<key>hash2</key>
 			<data>
 			oNDUbdCQQ15qDZ/yTNbTsxzPsCm+Q2NsT832dpOoGjA=
@@ -1789,10 +1511,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/history_filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			atTrltnBUMlE5Hl1F2fDp4EDp7Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			+yID2NRpM8Cq/z6K6cTrXs9GRLDR8LWIHIjxMqhRl3g=
@@ -1800,21 +1518,23 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/home-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZtLnUmoQkWJXfBffkd0CfZClyjk=
-			</data>
+<<<<<<< HEAD
 			<key>hash2</key>
 			<data>
 			ASHO8YgCJqhkrRIX3ZKrcg8L2yuKamXqQDTzRskgirI=
+=======
+			<key>hash</key>
+			<data>
+			jGwO9D03261seFHiBwXlDo3o59U=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Aq1piCddsH9IINxOsHbm0fKs7ZO3pvmKb7eDqhDpM4=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/home.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2Zvzh00SHzHq7XEvZZAieZOqbBc=
-			</data>
 			<key>hash2</key>
 			<data>
 			mLLB7+8AcoG1PCtaRpVxd4AChSmC/VYweDruIQ+sgYI=
@@ -1822,10 +1542,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/icon.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oSoV2PKxncmq80USjnaUrNJMGPQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			nYtgMBJ75tBQpT7ZUcz+EFW0pwROGlShBYGUNUccOXI=
@@ -1833,10 +1549,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/line.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W+MVDoJrWhJQeMO4Vlv9VgIQw34=
-			</data>
 			<key>hash2</key>
 			<data>
 			1qU+swI1AmGNPVUdkcbGHOhoygc1kDrZD7qBvtk5sLw=
@@ -1844,10 +1556,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/menu.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hFgDBEVtaS+omvy/p34Dp1tzfmA=
-			</data>
 			<key>hash2</key>
 			<data>
 			/lQT7LRVm0zfuKNUwjWrJJ8zN2QXQoSMvpoCX7PbXBQ=
@@ -1855,10 +1563,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/notification-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9ygsKt87q04HKTZe1Dy/CZCUJm0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Qh/mOChjWJ3fKVpe5hcrMz/NYBybKxwUCirmchZNh0Q=
@@ -1866,10 +1570,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/notification.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S+9KDxsMCDyQfcbr13wl4TKtavs=
-			</data>
 			<key>hash2</key>
 			<data>
 			APM9qGitveaefE4W2GUdrTVG0OgLLhmiJHbLHdi8drA=
@@ -1877,10 +1577,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/notification_bell.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jWLviMPQTGvMPU5pmWGhlZChjoU=
-			</data>
 			<key>hash2</key>
 			<data>
 			qp9IFaoXBB3xXoQia1VkGn7qmx580Ippfdo9plRsx9Y=
@@ -1888,10 +1584,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/pick-up-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9JnfV+NbczSqmuGkenZqGmSDQEw=
-			</data>
 			<key>hash2</key>
 			<data>
 			TJ+E6Pozg0nqvcvcHtdTJ8hcWBDV53NUgXmaGeofCy4=
@@ -1899,10 +1591,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/pick-up.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Mzar6T0Aqyo5gFBGp/IRl3ry+yQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			iB06y+tdH9ezdU0Oenq8fhryhixIct1K0gatGnl4hgM=
@@ -1910,10 +1598,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/processing-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1H6vADt3WZyZkmfkkW1zjAC7+aM=
-			</data>
 			<key>hash2</key>
 			<data>
 			+aGkMdAe4LPB+HvtbR4SR8UKGMpFBGcFBRZjBalQZPA=
@@ -1921,10 +1605,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/processing.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EjtSLPJbRtz4vdcQQG3gBufAd4o=
-			</data>
 			<key>hash2</key>
 			<data>
 			VkFk9WaD+kou9QFEAa8whhckCqHxGVjT829cwLQrjpY=
@@ -1932,10 +1612,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/schedule-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6R0xfULxws/LfzPjgWEBIyzz81U=
-			</data>
 			<key>hash2</key>
 			<data>
 			vCzbPIuLzzH1XZlJkScG3GKiqPN6pvJ8sX2UL8gOvcU=
@@ -1943,10 +1619,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/schedule.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DfOjSxtWDh0w7XyF8ZFy1B2+3zs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8uYxjBLWycM0eaEs0qaKAnXnPvkaaWPBPn00PM9MBEo=
@@ -1954,10 +1626,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/search.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gXt1nrY3KfE84rhiyYktajS3Zxo=
-			</data>
 			<key>hash2</key>
 			<data>
 			zvDYSM85/esswzVcz/1HigJcb9uJ3T2kmNm1r6F+/u4=
@@ -1965,10 +1633,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/setting-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QnjXW4F9ZhEF6LWyNts4uHIoJE4=
-			</data>
 			<key>hash2</key>
 			<data>
 			YYH8MtcQKmfK4HEMxbAik8JijYYAOLMMzhQ8+SHnlT4=
@@ -1976,10 +1640,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/setting.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zOcSepTdXV71JTAukDlcE4PSC9Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			Pu92qtmjACu8714f6FWWwD29WuuHfpsRqqnXCaNFNaE=
@@ -1987,10 +1647,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/star-filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eBejgayynTzLy5xmZjW8bUNZf0I=
-			</data>
 			<key>hash2</key>
 			<data>
 			g/rLBjZ8ffKda2cjZ7UfWQ3ywKKD1hyC2lwG6ERC/fY=
@@ -1998,10 +1654,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/time.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ORF8l5Us1an4weNYHKvNPCs4348=
-			</data>
 			<key>hash2</key>
 			<data>
 			3wT+xYAvEKe9xSzOSsS6kVd3wzehh50nzs3NPETWjYk=
@@ -2009,10 +1661,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/icons/time_filled.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g2kYZZ6oBJd9SC7C6WK49pqvi3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			UFQPo6mUuFdRWOI2Xfq3YHTYCvh9/vOgbUMrI3QT7qk=
@@ -2020,10 +1668,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/chat.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uj1gGds29MxJli4maEKd56jtIEY=
-			</data>
 			<key>hash2</key>
 			<data>
 			tZviVxECGPEJUDM1JYHCWKr7mPM9bPS4FjFelDvXwq8=
@@ -2031,10 +1675,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/loading.svg</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Jp5YTNVCbO0JrJ0gjXbaMnmTKsY=
-			</data>
 			<key>hash2</key>
 			<data>
 			0OV20ygG+WSXJqCfETMTGpUChR2Hi9hlzfpne3XkUOo=
@@ -2042,10 +1682,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/login.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wMxkas+dZ72oBlmFr0ZBZ5QkoZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ClKzTQTGAWi6tC7OorTq3nDO6iEy03lbgmb50Vc8lRo=
@@ -2053,10 +1689,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/login_bottom.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ggGLN/Zk1C2dnhtou87c6CUAZQU=
-			</data>
 			<key>hash2</key>
 			<data>
 			vXZnLyUtLGgfvOZTOXc7mL+ct6llp7MLB3TZ0FMDdgE=
@@ -2064,10 +1696,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/logo.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9+sj+L77i5XX7Iuz3Sz3p1f0R0c=
-			</data>
 			<key>hash2</key>
 			<data>
 			zfC+tlC4vP1UJKqA2O7mtChJz6FH1QWhFUJTdK4qAFw=
@@ -2075,10 +1703,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/main_bottom.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fKnymlehTgbpKoTxLlhB31+fQPw=
-			</data>
 			<key>hash2</key>
 			<data>
 			B3qa5MCzqmkM43L/0gDyANGF/6aQXuxxALf6D1eit2k=
@@ -2086,10 +1710,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/main_top.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Z4VQCcnO2MTQINB9e2qjoOnZ5X0=
-			</data>
 			<key>hash2</key>
 			<data>
 			l8QDRlA5nyDDDwPzTIF1ROxyifgl4lsyqgputY2JvGI=
@@ -2097,10 +1717,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/matching.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fWEJSzNE2PiKaHyP7viENyew1Ic=
-			</data>
 			<key>hash2</key>
 			<data>
 			5btHh7F/wbGyZ7bIq65bwHKGqO2VMv+9G1kTE6dKz1E=
@@ -2108,10 +1724,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/pic.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zlX9VCdCId3h94Cs9LrncE/IwsM=
-			</data>
 			<key>hash2</key>
 			<data>
 			wmE+X/VxLG39l+/a5oh8ckW9R3snTDUiGrx7sq+KN7s=
@@ -2119,10 +1731,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/rating.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oXKRDA18hawJTpXGIzxUj3l9Iio=
-			</data>
 			<key>hash2</key>
 			<data>
 			iPMjRPHpFMphyvNVEgQEv8EzVnqbIWe+4bzXy39qzOk=
@@ -2130,10 +1738,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/sharlymeter.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UaAO7bBIpPA2HI45j3auspnXzGk=
-			</data>
 			<key>hash2</key>
 			<data>
 			GUgH/yYJlyrb/QTdOPOEczOo/4h9K+bALhYrNs9W+a8=
@@ -2141,10 +1745,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/signup.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8yfqCi3URML7QpA8NEw+5a8sfes=
-			</data>
 			<key>hash2</key>
 			<data>
 			v6LG/Lhbx3BJXitcwWCYPR6wOTLU2XGqgVAf6/Pwaog=
@@ -2152,10 +1752,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/signup_top.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n5cbL3JjUBspD75UVnTlqajUgG0=
-			</data>
 			<key>hash2</key>
 			<data>
 			zPCTJOuFS7s499DC2M7A6P6RuXXxHdW1FTLBDBI4PCw=
@@ -2163,10 +1759,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/images/welcome.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			78DpKvI8BvCgXyAC+NS7sk1vnxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			hcanj9URds/X+zqyMGkhYHU5+caPm9DZpPhwL+iZKv8=
@@ -2174,10 +1766,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nIzDzw7hjOThppiX5OleKNAxtqM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Wuh7JiGdsCj8cMnXMpa8jtW4ekzRz359zPE0NyQ7iRE=
@@ -2185,10 +1773,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6S2rpTiNGz3kSyT1VZHCtMikvSo=
-			</data>
 			<key>hash2</key>
 			<data>
 			I9xmlH5vh7tZAmJPPfrRvQrKK+wii8/XyKHX5XGaht8=
@@ -2196,6 +1780,11 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			p46QeuSkE4yW/EkkSiGWuwQkoGGMl7tP0u8MVMH52GQ=
+=======
 			<key>hash</key>
 			<data>
 			1wi8PB8cFu9zrCNN+SqOzMubjlc=
@@ -2203,14 +1792,11 @@
 			<key>hash2</key>
 			<data>
 			gKL8ym+l98eI98geDRqRYrcZvrcYnVX462Sw/xKcn7E=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TdRNbRcrlXQQgeiweLFizPmk92g=
-			</data>
 			<key>hash2</key>
 			<data>
 			d6fK2iHuml40zu1xSV3HnoE9PVFhQREGOzVfduySSBY=
@@ -2218,10 +1804,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/AntDesign.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TneGhDkoD7Q01Gl8e5EScUBsgfM=
-			</data>
 			<key>hash2</key>
 			<data>
 			eVXKFBJ7MEEsEU6xPP1wK12rJl/rGIDRaV1zyqgkzeE=
@@ -2229,10 +1811,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Entypo.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			R4cKZ91Qhxdl95nKqX2ochnuR8U=
-			</data>
 			<key>hash2</key>
 			<data>
 			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
@@ -2240,10 +1818,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/EvilIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kdN36jz0dJCyVsLtCBcEp9q9rgw=
-			</data>
 			<key>hash2</key>
 			<data>
 			pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY=
@@ -2251,10 +1825,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Feather.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N8tVG0ETiQxSP0aeapsrKcTEm+Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			vJZj1K7YcJfMyjc62U/QjeJKxKNRAOPfO30oFCyQCUo=
@@ -2262,10 +1832,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/FontAwesome.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E7HqtlqYPHpzvHmXxHnWaUP3xss=
-			</data>
 			<key>hash2</key>
 			<data>
 			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
@@ -2273,10 +1839,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Brands.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			abc988iZKpOFkkYGWiZ6Bb/Yz1Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			NSPzVRWd/5tqRoE4vIyPzdWSGMAXP+6lG+TYw0iNyhA=
@@ -2284,10 +1846,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lwZFPD6ptz58CLO+HnxxbWVc+RY=
-			</data>
 			<key>hash2</key>
 			<data>
 			dHHOyKGia7DwFCbUgQeGkTt3cHnS+WaoU/X5dvIusqo=
@@ -2295,10 +1853,6 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/FontAwesome5_Solid.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P3YEFmOPZFmt5yUbgP17wn1q0cY=
-			</data>
 			<key>hash2</key>
 			<data>
 			lHqsFqptKzsKT6IOILje+kYC6bQvj9n6KxlTi0xajqk=
@@ -2306,6 +1860,11 @@
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Foundation.ttf</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
+=======
 			<key>hash</key>
 			<data>
 			SyvObHkkk6SlcWtv7C2+/olJLD8=
@@ -2577,32 +2136,30 @@
 			<key>hash2</key>
 			<data>
 			EvesM2vjm7Qftsclb24R162WAbYj7pN8k1tAatqZUWY=
+>>>>>>> master
 			</data>
 		</dict>
-		<key>Frameworks/geolocator.framework/Info.plist</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Ionicons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NU6xCIF4wnlscDLtjPqK0SZVJcM=
-			</data>
 			<key>hash2</key>
 			<data>
-			enSdaxVSYY6h2r7ITRrivkmibhDrKf1+UhlngNSAWbk=
+			INFzvLYFHQlzvgymqi+08npbKQ2AEGyyxWfI/cdyxxE=
 			</data>
 		</dict>
-		<key>Frameworks/geolocator.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/MaterialCommunityIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OHJNfL9P+dEEqhPAjJB+kXpuCw0=
-			</data>
 			<key>hash2</key>
 			<data>
-			94JQ9gfBqs+dcJdXLqMe32sBRrTlj7InP2mva7rSFY0=
+			pMb54LECEoSgz9vwXFLUr8XOeYt1wQNsa034kEqrmB8=
 			</data>
 		</dict>
-		<key>Frameworks/geolocator.framework/geolocator</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/MaterialIcons.ttf</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			t/Sjq1YgSPKN0fppFgG8QzY6YdD4dtFtgxbFLk8y1pY=
+=======
 			<key>hash</key>
 			<data>
 			w+ZfjN7Jw5q1TJ3aVU+yD5Rao4Y=
@@ -2610,124 +2167,116 @@
 			<key>hash2</key>
 			<data>
 			O6bsws42rddZwLY488KEo1a/b+EGP3MfCr38Obx7+fY=
+>>>>>>> master
 			</data>
 		</dict>
-		<key>Frameworks/libswiftCore.dylib</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Octicons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rrAp64iPhUL40XQR7JlGMDIZaMA=
-			</data>
 			<key>hash2</key>
 			<data>
-			SVCZK2UG9ihtWggcfIn/i94g//jyC4cI73gURFdHavA=
+			8KI41G1nSeYBwS8g+PwDIB8Ze5/jR75MLJRP/FxLYDU=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P4IT9OqWCWZ8FyecMxQHhM6h4G8=
-			</data>
 			<key>hash2</key>
 			<data>
-			/wz85l+DKAaQ7/BS+77vK5X998iA4Lwz+DGJ95g4kZw=
+			P1Ad2wXHCCm7tRz+nKn/9X854GBFfCV7PM8l33Z/CHA=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/Zocial.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JoDjsNQXE3z2hogOouALtjw8m/g=
-			</data>
 			<key>hash2</key>
 			<data>
-			6UmJ5TyRJe3XQ2ANvUh7wapWfH50HDaC5DE8brYBB5U=
+			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftDarwin.dylib</key>
+		<key>Frameworks/App.framework/flutter_assets/packages/flutter_icons/fonts/weathericons.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XJGVexKAsC220QzBQHwL6VS/whc=
-			</data>
 			<key>hash2</key>
 			<data>
-			Fy3X7nPk7IgG+lCSWKHuMHgGz6Yi56UOKe6XajzinhU=
+			F2vaZmHyE93kfCEU125HbsjKmq4H3VT5VQ0tKP4CtP0=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftDispatch.dylib</key>
+		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xYRhwsR1eeXatGDr8WNyVj93krw=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZSH1H7EN5E4TGGB63N2+7rR7N+rDR1LBmkhABOf9RVQ=
+			yjs1mdT+fSVGjKabCX7QCo0WjAhHdawMYUQDJjAFCA0=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftFoundation.dylib</key>
+		<key>Frameworks/Flutter.framework/Flutter</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WclOTQyDfPDOGEjZboBz+yfxGVQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			6SyHvvl3dAOzLH6bFEeF41TPcUHS3iYOdFK7I0FEU6M=
+			RbLNSjjAzRT+TXVR2t7Uvo+UDAJJP9aeuedKiIPt8fg=
 			</data>
 		</dict>
-		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W4v+YlroD8+v27M4zKa/3r9eqdA=
-			</data>
 			<key>hash2</key>
 			<data>
-			zLWBGbdbTQk6chVChX0c8CFwhq8ogd9K00QEU5AufEY=
+			Ba03RSxfUgBabgcMpCgUyon8YIpiOwSqF0vN2wVpLSY=
 			</data>
 		</dict>
-		<key>Frameworks/nanopb.framework/Info.plist</key>
+		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5Slso3Fixq7ccpXztUTC8XATLZ8=
-			</data>
 			<key>hash2</key>
 			<data>
-			DDyvqLF2Waio/LVWBAw58BYuYKOaP7E7tRj5u5T/U2E=
+			eyLQuVyzpIUsA2ClEKCOwUnMi9lLlYy45pvQsDpFNF4=
 			</data>
 		</dict>
-		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			h4aCC40vxu9R83BroQogD8hl3pY=
-			</data>
 			<key>hash2</key>
 			<data>
-			XPk+ZHTQmTHI9mUMJzn1kKOt7P3KkvdB44NqbWvJP+A=
+			d6igCZs0Amnct0Ty8wttXm7vy5E4/cjjtaT/00mQRnA=
 			</data>
 		</dict>
-		<key>Frameworks/nanopb.framework/nanopb</key>
+		<key>Frameworks/geocoding.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			//E8m/TgBemvIBfKtgUTt18JWQs=
-			</data>
 			<key>hash2</key>
 			<data>
-			YfnfvUcPpBzpjDkhahSVQramoXmDs1BXoWcMvXl/sPg=
+			iYbtGBSYrRiKLIKdmEbEd0SW4Dr4zOpAbLE5ABuHBpo=
+			</data>
+		</dict>
+		<key>Frameworks/geocoding.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ljq+V9C63cSqKOScDbtDYj7rW6U998Si9KAdKwIj/eE=
+			</data>
+		</dict>
+		<key>Frameworks/geocoding.framework/geocoding</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			90YBTnaKcP/xgo/Ujwf7To71XOR3fkE7WGiAEquZDXQ=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			enSdaxVSYY6h2r7ITRrivkmibhDrKf1+UhlngNSAWbk=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			94JQ9gfBqs+dcJdXLqMe32sBRrTlj7InP2mva7rSFY0=
+			</data>
+		</dict>
+		<key>Frameworks/geolocator.framework/geolocator</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y1hXCfB40o+RPxuiZm7qcjNjmkWtpL/dbZc0d6mRaz8=
 			</data>
 		</dict>
 		<key>Frameworks/permission.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D6z18BVZsq9abY5p25SUOvOZ+dw=
-			</data>
 			<key>hash2</key>
 			<data>
 			ULBV0+9C0gVNpviOcB/dhyY5laOL7LCjCHflLno9fiQ=
@@ -2735,10 +2284,6 @@
 		</dict>
 		<key>Frameworks/permission.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			erZuIF6m6Kia5Cm4EWnrtFN+bDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			nTX3VO7ZVWGBfMeokjmw7JbQTzoGd2ECyCfDG4dZiIE=
@@ -2746,6 +2291,11 @@
 		</dict>
 		<key>Frameworks/permission.framework/permission</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			gyX7NVpw6nOs4r95Jx9Dc4+U5wEiGKF9bkHUrg+MAbM=
+=======
 			<key>hash</key>
 			<data>
 			cizGPXdpfKqpwjyulGcPWP322IU=
@@ -2753,14 +2303,11 @@
 			<key>hash2</key>
 			<data>
 			anhnZSDGPgOdAIW/xxOvJifofc3swBLV14MkfpjYeA4=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+Cb8XWnlBSLft/K05bSs3fkw+/4=
-			</data>
 			<key>hash2</key>
 			<data>
 			3c4cyUYQyvPA7TXBKhbBHMQQgefyWIcqmuLc2Ap1yEg=
@@ -2768,10 +2315,6 @@
 		</dict>
 		<key>Frameworks/url_launcher.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			El9w5JzzAI2k5Fa2T8e4pUawc58=
-			</data>
 			<key>hash2</key>
 			<data>
 			dMOivmk5nVs1UFWt7/9hfz6XdNAx8SYOUtZRNBDS2qM=
@@ -2779,6 +2322,11 @@
 		</dict>
 		<key>Frameworks/url_launcher.framework/url_launcher</key>
 		<dict>
+<<<<<<< HEAD
+			<key>hash2</key>
+			<data>
+			Y2itTnLd5NrBStrKiiGsEdEYVEGd73wvS/iag59C3dg=
+=======
 			<key>hash</key>
 			<data>
 			TinWlPu58cqNgwHBe0q6U4hJPJQ=
@@ -2786,14 +2334,11 @@
 			<key>hash2</key>
 			<data>
 			mMvZ0geKDR2l158u//+tSW77o04VEgfnJhHKqJrYN8I=
+>>>>>>> master
 			</data>
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/Storage.mom</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bd/AjjbWiJUWvZUpX4Vapp32pk4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Odq+tRGRSNqHHcXwc2/yCFTKWrj2O8UvwnqqmtcswaA=
@@ -2801,10 +2346,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.mom</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ig+NvdKhK8ROzErUjRUTCgl2Hk4=
-			</data>
 			<key>hash2</key>
 			<data>
 			/VobCJKu9EPeP1STMgPOa3OWAUyAKq02uQYg9N0qPcI=
@@ -2812,10 +2353,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileProto.omo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lkuHjEc3NYppZ9ty56waNrwz44s=
-			</data>
 			<key>hash2</key>
 			<data>
 			UIx5nKpCovxPQeu5+d1F9EwbIZC9fqd9ehFIMDFphi8=
@@ -2823,10 +2360,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/StorageWithTileVersionID.mom</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FFbX306ig2PY+n623EUdmBbBjtM=
-			</data>
 			<key>hash2</key>
 			<data>
 			mjNp3Ww2hLAW11ykW0H+Xor6XL7QKo1BjKTaQbT0rlA=
@@ -2834,10 +2367,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCacheStorage.momd/VersionInfo.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KpQfA9Mkzcsta8XtXtoP0iUcrfQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			HYIZWfz4fxM0mKWi+nE5GR13mL257tjl83RL73XTgVU=
@@ -2845,10 +2374,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3tVUCN6eRmKMy3VJwef0ROmuBiQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			dyA6ZsI9dugWRYDpetWv6Er+OrVy4zldCzFb9v9k/8Y=
@@ -2856,10 +2381,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/DroidSansMerged-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IM7pUc3dgbBfKBC7eTUgbJOheGI=
-			</data>
 			<key>hash2</key>
 			<data>
 			oRgIxXbtc2TA+CQC4IYwuDWJiwC79rQTLdnyhCHh0Pg=
@@ -2867,10 +2388,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-1x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KBiuGmPvZm6y3heWHurqjBMitJw=
-			</data>
 			<key>hash2</key>
 			<data>
 			6I9AZoWd/JQ8PV9b4FcAqf5GJT6iUEe7YeuyNGEkwfc=
@@ -2878,10 +2395,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/ZC7kLA33LLUaGoy4elYV+v1Pss=
-			</data>
 			<key>hash2</key>
 			<data>
 			35EHfeztT/7K9NKjZJGCUlauQ2HOF3PBQxkLgM2OGUw=
@@ -2889,10 +2402,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavNightModeSprites-0-3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UPqwKRHKhiKSYvXhNjoHx17Nuzw=
-			</data>
 			<key>hash2</key>
 			<data>
 			yGhIyrKtKLoQ2oJfnH4RrIxHQUQYODC5SL+bLjiNbxo=
@@ -2900,10 +2409,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-1x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mfB/MyxUmXFg9Vpp/U5VsQY7S1g=
-			</data>
 			<key>hash2</key>
 			<data>
 			jRfU5I+eBrG4NBhLV9IBsXXb0DJ9cXoHbCE4CN0QiUc=
@@ -2911,10 +2416,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jjx4hEkp/WAC6uAe/KXdwGjm6CI=
-			</data>
 			<key>hash2</key>
 			<data>
 			S3sLYbDleAUGAjWIVe8mvnmB6ONkTxlmkd9BPlylOWs=
@@ -2922,10 +2423,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSNavSprites-0-3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			71kfAzHiEMvBEzOv7EHvlQHjfuA=
-			</data>
 			<key>hash2</key>
 			<data>
 			0SyDaAgdNWt5XirK8fh9r/KPbbBqlWeaa1+p4aMYRvw=
@@ -2933,10 +2430,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-1x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EWBdPfava/wyOvJzwjjrb/duCps=
-			</data>
 			<key>hash2</key>
 			<data>
 			/San4bmkO/etQsjn9oEXdyINQp6ibF2eqGT+08nFcOs=
@@ -2944,10 +2437,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qdfSsxqXu+cyeOAXclm8SMqA4X0=
-			</data>
 			<key>hash2</key>
 			<data>
 			pntyMhLjHwzvqXia0TOR0kyhwisXgBbqmQjOgC3IQgo=
@@ -2955,10 +2444,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/GMSSprites-0-3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n786WUj7hGtZZRTeMetonUS85d0=
-			</data>
 			<key>hash2</key>
 			<data>
 			gGAK9lJQRrjb5ZNvbgHJPz/XC5Q3HweL2qc9boFq6Qc=
@@ -2966,10 +2451,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8MLrAZjGJb+fXid7ejuyQ+ZwELI=
-			</data>
 			<key>hash2</key>
 			<data>
 			R4Ut970WSknnvidUjxy+gPLoAI7cujo1kWgKoNpMCMY=
@@ -2977,10 +2458,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/Tharlon-Regular.ttf</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QKmhT0236O/x77A3aFViLI3U0RA=
-			</data>
 			<key>hash2</key>
 			<data>
 			4HMV9v4N9IH0373fJ215YuoHOKrnkWwgbsN63C7LlNc=
@@ -2988,10 +2465,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ar.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w+fldiZ5sM8dJ+LgZAKM9CtHQs4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MrSJ85Y8Y6uEB7OfXt4UoOp2PXqcb+iMEyQuwM+cKVA=
@@ -3001,10 +2474,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_background.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			58HUtPew0VfX28iT0hoZoqqV8R0=
-			</data>
 			<key>hash2</key>
 			<data>
 			VUfuf1zHkFbUsHfs0W2XgKZU1+OccZ1EFTBKqUPRvpA=
@@ -3012,10 +2481,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_background@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6gBjAkHF3kLwzqmfNBlRZY9e/kA=
-			</data>
 			<key>hash2</key>
 			<data>
 			L3cYb4rSz5yv0DjIESC1J3/cb8P0Js0Ff9mVn459XmA=
@@ -3023,10 +2488,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_background@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wI+5cU+Y/voatJ+IHCVJWAv6jQQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			UJlmp7f16dQ1TqC/a0uyZ8RGy7o/exUVKOFU8OsbbFU=
@@ -3034,10 +2495,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_compass.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DSedvNbNTixsQO+c0IlL1PkNCdY=
-			</data>
 			<key>hash2</key>
 			<data>
 			fFQ2JJGO00f80s6uU4uleAHJ+R9BTG1nUEYfsfZY9Fo=
@@ -3045,10 +2502,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_compass@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			euWXSDkE7B75wvPAU1ssfZA9NaM=
-			</data>
 			<key>hash2</key>
 			<data>
 			KsU6yUyahIrTFyLyw00wG+zkDkxGGocVZMhX46e19Gs=
@@ -3056,10 +2509,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d+Mu/JBZVfGIW30YjWEaWiC/sMA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZyxSDpdORHSyv61cmUzZqM8ndta0mAzjXNz1I0LMonI=
@@ -3067,10 +2516,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_compass_night@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lE3Jc6hIhQEfpuGBhw6EKFWV+Q8=
-			</data>
 			<key>hash2</key>
 			<data>
 			CriYgwzkN/I/cVy1eJf4HI6kfJaC2PT7qk3sqSPG60g=
@@ -3078,10 +2523,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1h5giTFrQI++3fVXazIMR/7gzoY=
-			</data>
 			<key>hash2</key>
 			<data>
 			qHyHEkW8JdVyAqojiLMeEvdbdu29vAMj/80KkzOxCoI=
@@ -3089,10 +2530,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/button_my_location@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xT8ttVKmlQQ7RypGMAzTOIjuhLs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Lit0EakIiwZVnj6fbN0D3wgszTkSE9/rnfzmpGBwUps=
@@ -3100,10 +2537,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ca.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g0YYU4Fo9fSxv+VaTcPon5kXUGw=
-			</data>
 			<key>hash2</key>
 			<data>
 			TLHwa7/l9SY8NlmIMxqtc34NmpAOYDPqpQX5U1S16MM=
@@ -3113,10 +2546,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/cs.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+KP+iBGizGRs5qiLQHXXLDfTBes=
-			</data>
 			<key>hash2</key>
 			<data>
 			wv16uEzsydhwl70YhqB7D44tQNc/weY+0dhp+TeVRos=
@@ -3126,10 +2555,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/da.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GvSJZ0G5mH9zxLOX8qcUHu7JyFs=
-			</data>
 			<key>hash2</key>
 			<data>
 			NI9CYyRfa9Ut1OjrLGOarfbFFkHg+cqFdefSxSutwlA=
@@ -3139,10 +2564,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/dav_one_way_16_256.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6ZZOqO9aCr59xWXdfdxHYMMTkEM=
-			</data>
 			<key>hash2</key>
 			<data>
 			7/vwjVbNju+XCu1xevYaVQ4/JUsqO/RCsRDlPNq7kaY=
@@ -3150,10 +2571,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/de.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HzFgnVQVTEauR7rlj5Tg3fyl3TI=
-			</data>
 			<key>hash2</key>
 			<data>
 			CPr52agDN7mHH4caCHHWrQkMMBQoFCIYtSDEIOuDhcc=
@@ -3163,10 +2580,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/el.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			H7zt/0HMFHFYFZfY5gfTKv8/0wY=
-			</data>
 			<key>hash2</key>
 			<data>
 			USoC1pI+MDAgIaBRp43Bd85lywq4VJdf1pbD7UKooZU=
@@ -3176,10 +2589,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/en.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aPBnOcx/MOeGiUmSypruNjdsPUg=
-			</data>
 			<key>hash2</key>
 			<data>
 			ovkeCIlkVZi1kci5DB06sJvh/hlpsu/+uPf0U73UM40=
@@ -3189,10 +2598,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/en_AU.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wrsmJWkqxCSEuEIP08gw22A5oC4=
-			</data>
 			<key>hash2</key>
 			<data>
 			P3gH3V8km4jjJ746PZu1IowSi3gRt0zJUW2147fuYOE=
@@ -3202,10 +2607,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/en_GB.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wrsmJWkqxCSEuEIP08gw22A5oC4=
-			</data>
 			<key>hash2</key>
 			<data>
 			P3gH3V8km4jjJ746PZu1IowSi3gRt0zJUW2147fuYOE=
@@ -3215,10 +2616,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/en_IN.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wrsmJWkqxCSEuEIP08gw22A5oC4=
-			</data>
 			<key>hash2</key>
 			<data>
 			P3gH3V8km4jjJ746PZu1IowSi3gRt0zJUW2147fuYOE=
@@ -3228,10 +2625,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/es.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ft1D61/W/r3FZmd8c8CADaYCv30=
-			</data>
 			<key>hash2</key>
 			<data>
 			mDqS5mp/t4RQqzyC/eWiOeZLwpJCFrAFJeiSJxTBTpA=
@@ -3241,10 +2634,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/es_419.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sFcC9jYkMeXJJzgKv+B4Nj3LQRQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dum7btGDePs321kkuCwEv3lgACJwTdkz2BFhyWZFnRY=
@@ -3254,10 +2643,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/es_MX.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sFcC9jYkMeXJJzgKv+B4Nj3LQRQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dum7btGDePs321kkuCwEv3lgACJwTdkz2BFhyWZFnRY=
@@ -3267,10 +2652,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/fi.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ptKP3Y7g7zMqFUneBK+5MF2sFeU=
-			</data>
 			<key>hash2</key>
 			<data>
 			G8GnW2sAs9f19wAY0otgYq/aos2Xf4xUX/y06wWKBM8=
@@ -3280,10 +2661,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/fr.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5HuyHhZAGdH2B5jBSAPT1nUxexI=
-			</data>
 			<key>hash2</key>
 			<data>
 			P1malX3MiBOqU0XqHif2WQfA/EcI001vKKQmK+H7IhM=
@@ -3293,10 +2670,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/fr_CA.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w+D8+rwPnvS0H3ufeKbWEaFUX34=
-			</data>
 			<key>hash2</key>
 			<data>
 			BrFhckESWQl66qDqRcPMni1WRv9J6MZRZnHIEekzKNk=
@@ -3306,10 +2679,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/he.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xgFKAKyAH3YYZtX+0y1mdX6WhVU=
-			</data>
 			<key>hash2</key>
 			<data>
 			FQj5xEOMy9pKn1hl0VuJKy5TXuhj4WeZs9DSpr0LFAw=
@@ -3319,10 +2688,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/hi.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aoBY1g8UIyyahWQVRpoecF0lWC0=
-			</data>
 			<key>hash2</key>
 			<data>
 			uRQh4D/PBgCzQRAPiISzrd3W7wYjUvO3tikwRFRnH+4=
@@ -3332,10 +2697,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/hr.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4R/C+HzHPFHSNrWFxY5iiZ3e7yE=
-			</data>
 			<key>hash2</key>
 			<data>
 			+dVmWBU7xKvypBZnA8wl48kO4kZMvpOTk8A10Jg47wg=
@@ -3345,10 +2706,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/hu.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GuzPQqLerRrLe6pTpwDwOOy4H0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			SACmfN59LmI8qBXeDKBCIRAbpmKZmXqT0bW5YEfEcOc=
@@ -3358,10 +2715,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FczO+2H9ZOJL3KtoFkr7ZEbUEo0=
-			</data>
 			<key>hash2</key>
 			<data>
 			V2HcZbiTq9tAJFbLYxUnzbb0utxxO6kEVKiZsw0cr9c=
@@ -3369,10 +2722,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ik1Nng6iqN/+ruu7baKmTu3Cy/M=
-			</data>
 			<key>hash2</key>
 			<data>
 			l7DXZC/yFWAiJnn1y7b8MOf2wCeJgHDmWYdKB5lMTS8=
@@ -3380,10 +2729,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/WPXm9lH4rlc3x4vdnr7k2RHkEg=
-			</data>
 			<key>hash2</key>
 			<data>
 			0TDx02zeOyLukli+xhvRlGoyfDPfmHWEXjHT3uzpDk8=
@@ -3391,10 +2736,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zbZAM7mPNNvouB2QcXsTxOCJtxQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			H8OXFdacv5KzG+qLR5RrChts7GKxClFlKqHyXNg/6qA=
@@ -3402,10 +2743,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_compass_needle_large@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P08jpJQZdro2N5VhzgQnu+jsSZk=
-			</data>
 			<key>hash2</key>
 			<data>
 			z9EXEDKpCzvyZ7kGENSEXZznpcbyINaD1V8HSi9sgSs=
@@ -3413,10 +2750,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xh3gGmRY86tJc5Lh3Nd6zBYqSbs=
-			</data>
 			<key>hash2</key>
 			<data>
 			JtnHExDZopxjHDdkxKvEUTYb16WTqGyOKzA5Al5e17k=
@@ -3424,10 +2757,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NTF65BOR+sJY4SRV1e2mgkz9kmc=
-			</data>
 			<key>hash2</key>
 			<data>
 			yRv8itmfa+f7QkgZ03TsPrjc+YcMHHZz9Oxeuc5C+I4=
@@ -3435,10 +2764,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_location_off@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rQpisYk5GDcvEAM1KX1zN7Tk0UE=
-			</data>
 			<key>hash2</key>
 			<data>
 			Kswz6NBndW1QRhKZxc87C8BWIjBoKm5mPxHp6tqgvug=
@@ -3446,10 +2771,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v210WlF/V/X0MFX7rrbTkt6/gKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			JtJ9rKoWknZ/eIujTeaSz/i9MKoY20wUUxxgY64wMz4=
@@ -3457,10 +2778,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+WqWJySO0WVHmdN9btErTRncON0=
-			</data>
 			<key>hash2</key>
 			<data>
 			6PWtTGpNSDY/JmLM2KVXntVhoQhJKZUP/moGRbY3NMU=
@@ -3468,10 +2785,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ic_qu_direction_mylocation@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nda7w6LKUWLwuNgEGSa3UV+Gu4c=
-			</data>
 			<key>hash2</key>
 			<data>
 			ILRnt9YuI4SFIzANE21lIdVzBhRC5hfsfl+AshH7LAg=
@@ -3479,10 +2792,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/id.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RCvjmzH4ISJtMlJ9qERfAJiM5Ao=
-			</data>
 			<key>hash2</key>
 			<data>
 			PA/Z3JJs8AEX/n13rxQHrqpBwXVcfyETO9XvcDjA+c8=
@@ -3492,10 +2801,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/it.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WKOgj7yk4AI54yojl9Uy+9Z39vg=
-			</data>
 			<key>hash2</key>
 			<data>
 			bEHwfCtD6B4eZUjDBOxolCZ9K7Jm4czfyPGY19K830o=
@@ -3505,10 +2810,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/iw.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xgFKAKyAH3YYZtX+0y1mdX6WhVU=
-			</data>
 			<key>hash2</key>
 			<data>
 			FQj5xEOMy9pKn1hl0VuJKy5TXuhj4WeZs9DSpr0LFAw=
@@ -3518,10 +2819,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ja.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p2pJ57FXdG3ogxp0j3xKTmrRf4g=
-			</data>
 			<key>hash2</key>
 			<data>
 			qJ75suVE26RJBRTR38Uq0TJg93EYJp4VKgOB+XuBmkg=
@@ -3531,10 +2828,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ko.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wk7gFJl7LIz/StkOL9qHUwfZuBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			bcx095xBFZwwIkp3aC/76ZKuwwwFHfaaCZX1GlNMhVI=
@@ -3544,10 +2837,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lt.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Iu2wieD2EgNVX482kdgCayRGpkk=
-			</data>
 			<key>hash2</key>
 			<data>
 			IZFcUmqd/7HS+cEcxNDA4QoNKPHZ/MyBBfTSfp3PJII=
@@ -3557,10 +2846,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/lv.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6dpPeaulLtMUB3ROVKSsMXQfXQo=
-			</data>
 			<key>hash2</key>
 			<data>
 			GJdjke0Dp02ihXM5W+9I4SakbRb5VFOxsbvrDvic4wM=
@@ -3570,10 +2855,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ms.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KtE4+i97xI85x8AJqxuoDtDYfn0=
-			</data>
 			<key>hash2</key>
 			<data>
 			uYYOsL7VrFa4fDnpPU/xVKfn9jsGiYScjE97rCSmnHw=
@@ -3583,10 +2864,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/nb.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gIrkbb39VnY+TOyLIbx45uH40lY=
-			</data>
 			<key>hash2</key>
 			<data>
 			H1yxH+puBriCgRZ1K7g6z5Z+gBfnTDZnYM1m/pVF1Zk=
@@ -3596,10 +2873,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/nl.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LgdqUE8LDQCirKzPOG5h1UMezYM=
-			</data>
 			<key>hash2</key>
 			<data>
 			ouwav0SKwhJXMg6NDT5fIo3GSJUaBH7nQXF9IGJvxhA=
@@ -3609,10 +2882,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/no.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gIrkbb39VnY+TOyLIbx45uH40lY=
-			</data>
 			<key>hash2</key>
 			<data>
 			H1yxH+puBriCgRZ1K7g6z5Z+gBfnTDZnYM1m/pVF1Zk=
@@ -3622,10 +2891,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/pl.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1jndPNfcZCdsuwrQLKsdd1S4x2Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			eoGTAvOgTOo1GiNscSFDcCgHq2w2q1zQhS69jqaPwXc=
@@ -3635,10 +2900,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			z1kf4/sWpoPOzvXlf8K5f337H7o=
-			</data>
 			<key>hash2</key>
 			<data>
 			+dg+/X/HQz7XU5A0YjxVVb409jFOvCba/h/Dk0xwgJg=
@@ -3646,10 +2907,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/polyline_colors_texture_dim.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YoDHbGi2Kzr6KzaLWpIC+iHNW24=
-			</data>
 			<key>hash2</key>
 			<data>
 			utLkKWB1FOz3jZ0C25RC8IQUZKhnBiX4Zhqy+V9G1sM=
@@ -3657,10 +2914,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/pt.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			APXerVbclfK5biEzbb8bGmnWG8k=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ufm2hyxMsP7UeBDkEhzG5hSLHm8rCLISHOaZPxqcITI=
@@ -3670,10 +2923,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/pt_BR.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			APXerVbclfK5biEzbb8bGmnWG8k=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ufm2hyxMsP7UeBDkEhzG5hSLHm8rCLISHOaZPxqcITI=
@@ -3683,10 +2932,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/pt_PT.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NCFkiIRcBVzc+xLRw2RxziqjfIQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			A+y7u9YoK9P8Mo0i0gr7u+54KlAZT6IiKYbTBN4AwXg=
@@ -3696,10 +2941,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ro.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZVVZLNuW8ss4jUjE/sVf4RGUD9I=
-			</data>
 			<key>hash2</key>
 			<data>
 			bKNADPZd2O92sU7pqACmpNMcPvbdjsqDl+h7Iiz1ouM=
@@ -3709,10 +2950,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_1-1.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HG4lAzW99jq1X860ruCadRTP1JI=
-			</data>
 			<key>hash2</key>
 			<data>
 			lzM7SlPvx18FzuOhp0AfctCjH872VUYhotrEmV/bjj8=
@@ -3720,10 +2957,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_128-32.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Y9Cc3P9fnqQlvUq6hljpmps6Rfg=
-			</data>
 			<key>hash2</key>
 			<data>
 			nxJMmc39cm6sjewdRFv7mVHN62HynJzISegXtemahqE=
@@ -3731,10 +2964,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_16-4.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RnyN/LbKvVpEJtWMNkWwn1v0jnY=
-			</data>
 			<key>hash2</key>
 			<data>
 			gBiXF2YDIq+dMhZNzmXGIviFDDKW65Wwd5MGxawE07s=
@@ -3742,10 +2971,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_2-1.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			liaTlaCHAiLcpdhS15/FoNQuex8=
-			</data>
 			<key>hash2</key>
 			<data>
 			locpte2xHJxxYikj3vpYPAO4Fm0BJbKH3qAMUEHC6AQ=
@@ -3753,10 +2978,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_256-64.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TgH7/QavDGQI/skL1YE/6rzYH6I=
-			</data>
 			<key>hash2</key>
 			<data>
 			xWNHfxSxFwcTcbRx6ksenSsdQax+gxZj5zqKa4P5bWE=
@@ -3764,10 +2985,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_32-8.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5lTmhJEnxGk7JCSt1o7hQvsaZE0=
-			</data>
 			<key>hash2</key>
 			<data>
 			iBDn2L41GYIiiENv/p0efRgu7EM6L1eut92OA3dwsiM=
@@ -3775,10 +2992,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_4-1.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RMtreAjsSE5oStFTdN9QLiWrM14=
-			</data>
 			<key>hash2</key>
 			<data>
 			ucj2pK8WExUWdTnnnvWIu9iE9PEOo0rSvhyP+qAhUe0=
@@ -3786,10 +2999,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_64-16.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			solZa4fFXHU4p61KSegryhqGfMM=
-			</data>
 			<key>hash2</key>
 			<data>
 			7X62FR3qKLKgCi3mkwhoJfSYdhXVzy/pTp6j1wtdE1s=
@@ -3797,10 +3006,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/road_8-2.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IGEsKFv6icS08/TMkp+MormykLo=
-			</data>
 			<key>hash2</key>
 			<data>
 			pvfCkomVwJ0KZwclEtmUR11mSagaN9LrXrn58aC8Afw=
@@ -3808,10 +3013,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/ru.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8nCChZj5AfLWdlWhdhVXl7Iop0E=
-			</data>
 			<key>hash2</key>
 			<data>
 			g0OlTWfw21MDYuE/t3/ycBgnNX6l59bYlgV94wgOf7w=
@@ -3821,10 +3022,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sk.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qeCef8BuzsLxzl2cf5oVCaaYAhY=
-			</data>
 			<key>hash2</key>
 			<data>
 			QR6b7e0p2U54jlXsx9ALHnB4PVFKX13Rb4Y9/79f1VE=
@@ -3834,10 +3031,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/sv.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GyIyTOifjETVTlq4pkYOFdwIt78=
-			</data>
 			<key>hash2</key>
 			<data>
 			Vc4ddM++xzmN1onjkT/8NEeLZIMSy4jg6aedALqOrFk=
@@ -3847,10 +3040,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/th.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kwSfRwqetBiXiei6mKwL1oE8tF0=
-			</data>
 			<key>hash2</key>
 			<data>
 			XMMDzaB03z3UYGzc1VdWCGqX2cTLWOUhsMg6ZlDNmwQ=
@@ -3860,10 +3049,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/tr.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MCp3JikHsIVmT0LTtDQT8BIAQKo=
-			</data>
 			<key>hash2</key>
 			<data>
 			YS+HjexIrzoSgG0wmCU5vbN1HrSeEEhmq/qsNpu0D6Q=
@@ -3873,10 +3058,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_endcap.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JMIzIZ9izwPLkFbGpybEDcjnz7c=
-			</data>
 			<key>hash2</key>
 			<data>
 			LRveTLcg79RcFKLPlICnbpy9cMLFjvpirtWiug8ENh4=
@@ -3884,10 +3065,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AAR1u0EDgizTO6c+arDush1MFXQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			ojQmJmupqVHIBdTJ93dUYMOg3Bg0OPQbpqcX5jAU+ZQ=
@@ -3895,10 +3072,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_fast_night.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			20aMPRfTp4RiaEJ3gmioP38pYck=
-			</data>
 			<key>hash2</key>
 			<data>
 			NGNYPzQiYUMi8ED8Wc9w8OGU2s8cjpceluuKrYcgJ2k=
@@ -3906,10 +3079,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RjXvPqYlk8TLbeVMqI1rRLGGxkM=
-			</data>
 			<key>hash2</key>
 			<data>
 			9X01yy+QLrGikjXpDzB+9BC1mzC+eHC3Kmx/MnnfkOE=
@@ -3917,10 +3086,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_slow_night.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QSU98IRtVJFtlfNGOUjel2Eq+1c=
-			</data>
 			<key>hash2</key>
 			<data>
 			Xs2MWbwrqL1ySHtvWB5TmPfj231cwvbRBAUGuwCjC0c=
@@ -3928,10 +3093,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_startcap.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G+epinU1D/ABNNd9znBSZ13ndrE=
-			</data>
 			<key>hash2</key>
 			<data>
 			sjvl6HdTaXxkEnfXJPwFre8lYgfOf9V+C6R4DAut5Z4=
@@ -3939,10 +3100,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AMt9ccrqHczFtAFDe6+VLmtwYEU=
-			</data>
 			<key>hash2</key>
 			<data>
 			MZ09pFs9n/74PhYWeDGIKQBaWt3Whc+PlR5gSnzeUZU=
@@ -3950,10 +3107,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stop_and_go_night.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iRrGWbJn8f/O0D0bmZL8s3ivjoU=
-			</data>
 			<key>hash2</key>
 			<data>
 			wq42PGVY8v/vUB0oifRyHArSZJqTJSOCuGUtufxje24=
@@ -3961,10 +3114,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gdjNv/dDFdFHlN/jV6678f3dtEo=
-			</data>
 			<key>hash2</key>
 			<data>
 			NcCwwed+m/7rIH8OIgMrW/j6rULM7KVhDLoe72dckYM=
@@ -3972,10 +3121,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/traffic_stopped_night.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DErXBfMg+reu+FeXyAGYDtoI3ZI=
-			</data>
 			<key>hash2</key>
 			<data>
 			BzNaQs9vMeZ98yydG7Sx+S8Rtb/RQqEGdlP/NWl5jEA=
@@ -3983,10 +3128,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/uk.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ub0HFRxCY2A+RtZ2mlDP3eT7Cvk=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZLaOAln+MixNtEAqFXm6ix+Pgqm+DeJgfZYuKFtJg0Y=
@@ -3996,10 +3137,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/vi.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5PDDD+2ZJJzzyBFkHh1O/GU1w6M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z4gtUA88qIOPNbNBrspXf3t5SNKIO74uWi2LHzAseoo=
@@ -4009,10 +3146,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/zh_CN.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wW63Vaa9cUiCwyN+biAP7kakCLM=
-			</data>
 			<key>hash2</key>
 			<data>
 			8Zp4EhrK60NW7u31rC7OXONLHI+EX4Hs9Wbtq8/n09Y=
@@ -4022,10 +3155,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/zh_HK.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oY5vp3AOCXJ9iEOpMWS7v1LyJug=
-			</data>
 			<key>hash2</key>
 			<data>
 			0KlmDdkA/57M6aIfBYs6C0xHf4lB0zZxx87/s0zy/0U=
@@ -4035,10 +3164,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/GMSCoreResources.bundle/zh_TW.lproj/GMSCore.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UHzMOBflz+hRSg4OnX5f/HQ10DI=
-			</data>
 			<key>hash2</key>
 			<data>
 			PnitHYhx4H+sWdy4mNb1WGYdc9n7EzeHUVk0P4ESi3o=
@@ -4048,10 +3173,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8P230nRjfYIZ48JgMcXHbhv6Tn0=
-			</data>
 			<key>hash2</key>
 			<data>
 			cvHNriP2fBAUNk0jHANP4LFqU0ZL4c0Xy4E4WwuB2qg=
@@ -4059,10 +3180,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wEgufayRRGE/XJ0qEoTBxkKrlHk=
-			</data>
 			<key>hash2</key>
 			<data>
 			esJZo0DQ/iA9fGTeZgnhHBaaXjKiwF0Q+D77afKUdtQ=
@@ -4070,10 +3187,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nk+SqgFNjGYaDU/37+ZTq+lPIrk=
-			</data>
 			<key>hash2</key>
 			<data>
 			85j4wRMjUhbJzw2Cj/dcdiSaIcvVJMiwY8pyr9uAvoQ=
@@ -4081,10 +3194,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_left@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PeAkYTqZ90NC+h3Mi5El7hzRBgw=
-			</data>
 			<key>hash2</key>
 			<data>
 			CC5oWJdSl7qbV3Nhcm9VlpgXL0MZNtSwnDkXPFFjOAs=
@@ -4092,10 +3201,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_right.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			y8j2sPykvEUgCCWbqkMQajBUA70=
-			</data>
 			<key>hash2</key>
 			<data>
 			af0tM2SZMSGEXPSOUwN7JZ7as/APH644Mlk2l4IWqms=
@@ -4103,10 +3208,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_right@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			szkKZfIOIr+5aD8GPzuDEHHmsBY=
-			</data>
 			<key>hash2</key>
 			<data>
 			2tW3XA24iExRY3gHrbutr+hAVYLNOk3LrSXZmHRjUIA=
@@ -4114,10 +3215,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/bubble_right@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YSf405gjD1uaF7YDsam6q4yvNso=
-			</data>
 			<key>hash2</key>
 			<data>
 			02zlKov8Ubrnz7aJ/JXa+qQ073+mO2gy2CgeYrDNF18=
@@ -4125,10 +3222,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/default_marker.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ppuMWsDz33zJ4WQEf/T44wDUbH4=
-			</data>
 			<key>hash2</key>
 			<data>
 			887sC+aoN4dU/vbAxS4n+OVJF0OhaWtI5+ApUiAo4OI=
@@ -4136,10 +3229,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/default_marker@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			16rmol/KiLxPFBpJ2CXEt6iN1tY=
-			</data>
 			<key>hash2</key>
 			<data>
 			li0yHMe3GXzy6oYRXekDdiGI1lMKUe6WiOCFJxC3+3w=
@@ -4147,10 +3236,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/default_marker@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qsYrYr4gBke8SZua6qJO3PzmRHM=
-			</data>
 			<key>hash2</key>
 			<data>
 			CKZ6iFy+RrstUS7CKGBG4IwG/33OisBfa5HXSMu8aXs=
@@ -4158,10 +3243,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/ic_error.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0CVIeN+d0Z/e6FHcEzk0GpRz9KM=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZELicqEYSjWiwLH5Bpm+L59wifWIeso6rvF1uk5JPN8=
@@ -4169,10 +3250,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/ic_error@2x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BYvkcO3ien1dBURGTX7/iQ61684=
-			</data>
 			<key>hash2</key>
 			<data>
 			g+br70qT4Wo8OHYO9GEnd5pkjYLVQsyw1W8T8+pd7Xo=
@@ -4180,10 +3257,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/ic_error@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4z+GVXIKMXonei9wATmOpaG2Yp0=
-			</data>
 			<key>hash2</key>
 			<data>
 			l/lLCEplaZnTitN6/IXGuLZM5QXaxaSim9fc8XsRb3c=
@@ -4191,10 +3264,6 @@
 		</dict>
 		<key>GoogleMaps.bundle/oss_licenses_maps.txt.gz</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kcxaexbTn6EsmMy0z7mtxvsBsbw=
-			</data>
 			<key>hash2</key>
 			<data>
 			gXLTcUwXX+khsyOz7S82nq5QqSTtVnnfR9pKAVeInk4=

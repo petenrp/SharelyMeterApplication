@@ -8,12 +8,13 @@ import 'package:sharelymeter/screens/home/home_screen.dart';
 import 'package:sharelymeter/screens/home/wrapper.dart';
 import 'package:sharelymeter/screens/notification/notification_screen.dart';
 import 'package:sharelymeter/screens/welcome/welcomescreen.dart';
-
 import 'package:sharelymeter/prematching/map.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:sharelymeter/googlemapapi.dart'; // Stores the Google Maps API Key
 import 'package:flutter_polyline_points/flutter_polyline_points.dart';
 import 'package:geolocator/geolocator.dart';
+
+import 'dart:math' show cos, sqrt, asin;
 
 void main() {
   runApp(MyApp());
@@ -34,8 +35,9 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       //ถ้า Log-in แล้วให้เข้า SharlyMeter() ถ้ายังไม่ Log-in ให้เข้า WelcomeScreen()
-      //home: SharlyMeter(),
-      home: Wrapper(),
+      home: SharlyMeter(),
+      // home: Wrapper(),
+      // home: MapView(),
     );
   }
 }
