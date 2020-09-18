@@ -17,9 +17,11 @@ class Body extends StatefulWidget {
 class _BodyState extends State<Body> {
 
   final AuthService _auth = AuthService();
+  final _formkey = GlobalKey<FormState>();
 
   String email = '';
   String password = '';
+  String error = '';
 
   @override
   Widget build(BuildContext context) {
@@ -27,7 +29,8 @@ class _BodyState extends State<Body> {
     return Background(
       child: SingleChildScrollView(
         child: Form(
-            child: Column(
+          key: _formkey,
+          child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
@@ -45,11 +48,13 @@ class _BodyState extends State<Body> {
               RoundedInputField(
                 hintText: "Email",
                 icon: Icons.email,
+                validator: (value) => value.isEmpty ? 'Enter an Email': null,
                 onChanged: (value){
                   email = value;
                 },
               ),
               RoundedPasswordField(
+                validator: (value) => value.length < 6 ? 'Enter password 6 characters or more': null,
                 onChanged: (value){
                   setState(() {
                     password = value;
@@ -60,9 +65,23 @@ class _BodyState extends State<Body> {
               RoundedButton(
                 text: "LOGIN",
                 press: () async {
-                  print(email);
-                  print(password);
-                },
+                  if (_formkey.currentState.validate()) {
+                    dynamic result = await _auth.signInWithEmailAndPassword(email, password);
+                    if(result == null) {
+                      setState(() {
+                        error = 'could not login with thoes credentials';
+                      }); 
+                    }
+                  } 
+                }
+              ),
+              SizedBox(height: 12.0),
+              Text(
+                error,
+                style: TextStyle(
+                  color: Colors.red,
+                  fontSize: 14.0
+                ),
               ),
               SizedBox(height: size.height * 0.02),
               AlreadyHaveAnAccountCheck(

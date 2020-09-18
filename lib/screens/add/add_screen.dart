@@ -23,7 +23,7 @@ class _AddScreenState extends State<AddScreen> {
       leading: SizedBox(),
       centerTitle: true,
       title: Text(
-        "Find your sharly partner",
+        "Find your sharely partner",
       ),
     );
   }

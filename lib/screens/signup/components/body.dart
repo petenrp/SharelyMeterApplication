@@ -5,9 +5,8 @@ import 'package:sharelymeter/components/rounded_input_field.dart';
 import 'package:sharelymeter/components/rounded_password_field.dart';
 import 'package:sharelymeter/screens/login/login_screen.dart';
 import 'package:sharelymeter/screens/signup/components/background.dart';
-import 'package:sharelymeter/screens/signup/components/or_divider.dart';
-import 'package:sharelymeter/screens/signup/components/social_icon.dart';
 import 'package:sharelymeter/service/auth.dart';
+ 
 
 class Body extends StatefulWidget {
   Body({Key key}) : super(key: key);
@@ -18,12 +17,13 @@ class Body extends StatefulWidget {
 
 class _BodyState extends State<Body> {
 
-  final _formkey = GlobalKey<FormState>();
   final AuthService _auth = AuthService();
+   final _formkey = GlobalKey<FormState>();
 
   String email = '';
   String password = '';
-  String confirmpassword = '';
+  //String confirmpassword = '';
+  String error = '';
 
   @override
   Widget build(BuildContext context) {
@@ -65,24 +65,26 @@ class _BodyState extends State<Body> {
                 },
                 hinttext: "Password",
               ),
-              RoundedPasswordField(
-                validator: (value) => value.length < 6 ? 'Enter password 6 characters or more': null,
-                onChanged: (value) {
-                  setState(() {
-                    confirmpassword = value;
-                  });
-                },
-                hinttext: "Confirm Password",
-              ),
               RoundedButton(
                 text: "SIGNUP",
                 press: () async {
                   if (_formkey.currentState.validate()) {
-                    print(email);
-                    print(password);
-                    print(confirmpassword);
-                  }
-                },
+                    dynamic result = await _auth.registerWithEmailAndPassword(email, password);
+                    if(result == null) {
+                      setState(() {
+                        error = 'please provide a valid email';
+                      }); 
+                    }
+                  } 
+                }
+              ),
+              SizedBox(height: 12.0),
+              Text(
+                error,
+                style: TextStyle(
+                  color: Colors.red,
+                  fontSize: 14.0
+                ),
               ),
               SizedBox(height: size.height * 0.02),
               AlreadyHaveAnAccountCheck(
@@ -98,25 +100,6 @@ class _BodyState extends State<Body> {
                   );
                 },
               ),
-              // OrDivider(),
-              // Row(
-              //   mainAxisAlignment: MainAxisAlignment.center,
-              //   children: <Widget>[
-              //     SocalIcon(
-              //       iconSrc: "assets/icons/google.svg",
-              //       press: () {},
-              //     ),
-              //     SocalIcon(
-              //       iconSrc: "assets/icons/line.svg",
-              //       press: () {},
-              //     ),
-              //     SocalIcon(
-              //       iconSrc: "assets/icons/apple.svg",
-              //       press: () {},
-              //     ),
-              //   ],
-              // ),
-              //SizedBox(height: size.height * 0.01),
             ],
           ),
         ),

@@ -51,7 +51,7 @@ class HeaderWithSearchBox extends StatelessWidget {
                                   ),
                             ),
                             TextSpan(
-                              text: 'Find sharly partner on your route',
+                              text: 'Find sharely partner on your route',
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
